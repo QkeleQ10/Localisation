@@ -1,15 +1,15 @@
 {
     "e": {
-        "inv": "Nieprawidłowy link.",
-        "none": "Nie podano linku.",
-        "unav": "Ten film jest niedostępny.",
-        "e": "Wystąpił nieoczekiwany błąd."
+        "inv": "Invalid URL.",
+        "none": "No URL provided.",
+        "unav": "That video is unavailable.",
+        "e": "An unknown error occurred."
     },
-    "Paste a YouTube URL here": "Tutaj wklej link do filmu z YouTube",
-    "Video and audio": "Obraz i dźwięk",
-    "Just audio": "Tylko dźwięk",
-    "Just video": "Tylko obraz",
-    "Convert": "Konwertuj",
-    "Language": "Język",
-    "This tool was made by Quinten Althues.": "This tool was made by %dev%."
+    "Paste a YouTube URL here": "Paste a YouTube URL here",
+    "Video and audio": "Video and audio",
+    "Just audio": "Just audio",
+    "Just video": "Just video",
+    "Convert": "Convert",
+    "Language": "Language",
+    "This tool was made by Quinten Althues.": "To narzędzie zostało stworzone przez %dev%."
 }
