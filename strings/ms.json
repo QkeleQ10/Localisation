@@ -1,15 +1,15 @@
 {
     "e": {
-        "inv": "URL tidak sah.",
-        "none": "Tidak ada URL disediakan.",
-        "unav": "Video itu tidak ada.",
-        "e": "Kesalan tidak diketahui terjadi."
+        "inv": "Invalid URL.",
+        "none": "No URL provided.",
+        "unav": "That video is unavailable.",
+        "e": "An unknown error occurred."
     },
-    "Paste a YouTube URL here": "Tampal URL YouTube disini",
-    "Video and audio": "Video Dan audio",
-    "Just audio": "Hanya audio",
-    "Just video": "Hanya Video",
-    "Convert": "Ubah",
+    "Paste a YouTube URL here": "Paste a YouTube URL here",
+    "Video and audio": "Video and audio",
+    "Just audio": "Just audio",
+    "Just video": "Just video",
+    "Convert": "Convert",
     "Language": "Bahasa",
     "This tool was made by Quinten Althues.": "This tool was made by %dev%."
 }
