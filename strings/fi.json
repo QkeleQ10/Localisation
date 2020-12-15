@@ -1,15 +1,15 @@
 {
     "e": {
-        "inv": "Invalid URL.",
-        "none": "No URL provided.",
-        "unav": "That video is unavailable.",
-        "e": "An unknown error occurred."
+        "inv": "Virheellinen URL-osoite.",
+        "none": "Et syöttänyt URL-osoitetta.",
+        "unav": "Tämä video ei ole saatavilla.",
+        "e": "Tutematon virhe ilmaantui."
     },
-    "Paste a YouTube URL here": "Paste a YouTube URL here",
-    "Video and audio": "Video and audio",
-    "Just audio": "Just audio",
-    "Just video": "Just video",
-    "Convert": "Convert",
-    "Language": "Language",
+    "Paste a YouTube URL here": "Liitä Youtube-videon URL-osoite tähän",
+    "Video and audio": "Video ja ääni",
+    "Just audio": "Vain ääni",
+    "Just video": "Vain video",
+    "Convert": "Muuta",
+    "Language": "Kieli",
     "This tool was made by Quinten Althues.": "Tämän työkalun on tehnyt %dev%."
 }
