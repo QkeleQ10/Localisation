@@ -1,7 +1,7 @@
 {
     "e": {
-        "inv": "Invalid URL.",
-        "none": "No URL provided.",
+        "inv": "Ungültige URL.",
+        "none": "Kein URL eingegeben.",
         "unav": "That video is unavailable.",
         "e": "An unknown error occurred."
     },

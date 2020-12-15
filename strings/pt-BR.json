@@ -1,15 +1,15 @@
 {
     "e": {
-        "inv": "Invalid URL.",
+        "inv": "URL inválido.",
         "none": "No URL provided.",
         "unav": "That video is unavailable.",
         "e": "An unknown error occurred."
     },
-    "Paste a YouTube URL here": "Paste a YouTube URL here",
-    "Video and audio": "Video and audio",
-    "Just audio": "Just audio",
+    "Paste a YouTube URL here": "Cola um URL do YouTube aqui",
+    "Video and audio": "Vídeo e áudio",
+    "Just audio": "Só áudio",
     "Just video": "Just video",
-    "Convert": "Convert",
-    "Language": "Language",
+    "Convert": "Converter",
+    "Language": "Idioma",
     "This tool was made by Quinten Althues.": "This tool was made by %dev%."
 }
