@@ -1,15 +1,15 @@
 {
     "e": {
-        "inv": "Invalid URL.",
-        "none": "No URL provided.",
-        "unav": "That video is unavailable.",
-        "e": "An unknown error occurred."
+        "inv": "Μη έγκυρο URL.",
+        "none": "Δεν δόθηκε URL.",
+        "unav": "Αυτό το βίντεο δεν είναι διαθέσιμο.",
+        "e": "Ένα άγνωστο σφάλμα παρουσιάστηκε."
     },
-    "Paste a YouTube URL here": "Paste a YouTube URL here",
-    "Video and audio": "Video and audio",
-    "Just audio": "Just audio",
-    "Just video": "Just video",
-    "Convert": "Convert",
+    "Paste a YouTube URL here": "Επικολλήστε ένα YouTube URL εδώ",
+    "Video and audio": "Βίντεο και ήχος",
+    "Just audio": "Μόνο ήχος",
+    "Just video": "Μόνο βίντεο",
+    "Convert": "Μετατροπή",
     "Language": "Γλώσσα",
-    "This tool was made by Quinten Althues.": "This tool was made by %dev%."
+    "This tool was made by Quinten Althues.": "Αυτό το εργαλείο δημιουργήθηκε από τον %dev%."
 }
