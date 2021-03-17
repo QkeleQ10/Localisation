@@ -1,15 +1,15 @@
 {
     "e": {
-        "inv": "Invalid URL.",
-        "none": "No URL provided.",
-        "unav": "That video is unavailable.",
-        "e": "An unknown error occurred."
+        "inv": "URL errònia.",
+        "none": "No s'ha proveït cap URL.",
+        "unav": "Aquell vídeo no està disponible.",
+        "e": "S'ha produït un error desconegut."
     },
-    "Paste a YouTube URL here": "Paste a YouTube URL here",
-    "Video and audio": "Video and audio",
-    "Just audio": "Just audio",
-    "Just video": "Just video",
-    "Convert": "Convert",
-    "Language": "Language",
-    "This tool was made by Quinten Althues.": "This tool was made by %dev%."
+    "Paste a YouTube URL here": "Enganxa una URL de YouTube aquí",
+    "Video and audio": "Vídeo i àudio",
+    "Just audio": "Sols àudio",
+    "Just video": "Sols vídeo",
+    "Convert": "Convertir",
+    "Language": "Llengua",
+    "This tool was made by Quinten Althues.": "Aquesta ferramenta ha estat feta per %dev%."
 }
