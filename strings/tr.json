@@ -1,15 +1,15 @@
 {
     "e": {
-        "inv": "Invalid URL.",
-        "none": "No URL provided.",
-        "unav": "That video is unavailable.",
-        "e": "An unknown error occurred."
+        "inv": "Geçersiz URL.",
+        "none": "URL sağlanmadı.",
+        "unav": "Bu video kullanılamıyor.",
+        "e": "Bilinmeyen bir hata oluştu."
     },
-    "Paste a YouTube URL here": "Paste a YouTube URL here",
-    "Video and audio": "Video and audio",
-    "Just audio": "Just audio",
-    "Just video": "Just video",
-    "Convert": "Convert",
+    "Paste a YouTube URL here": "Buraya bir YouTube URL'si yapıştırın",
+    "Video and audio": "Video ve Ses",
+    "Just audio": "Sadece ses",
+    "Just video": "Sadece video",
+    "Convert": "Dönüştür",
     "Language": "Dil",
-    "This tool was made by Quinten Althues.": "This tool was made by %dev%."
+    "This tool was made by Quinten Althues.": "Bu araç tarafından yapıldı %dev%."
 }
