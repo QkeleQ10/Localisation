@@ -19,5 +19,7 @@
     "hypixeldesc": "O Hypixel é o servidor de Minecraft mais popular do mundo, no qual podes jogar diversos jogos.",
     "mcdesc": "O Minecraft é um jogo de sandbox desenvolvido pela Mojang. Os jogadores podem escavar materiais, criar ferramentas e blocos e construir estruturas.",
     "Back": "Back",
-    "Restart": "Restart"
+    "Restart": "Restart",
+    "Yes": "Sim",
+    "No": "Não"
 }
