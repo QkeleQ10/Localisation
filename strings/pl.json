@@ -19,5 +19,7 @@
     "hypixeldesc": "Hypixel jest najpopularniejszą siecią serwerów Minecraft na świecie, na której możesz grać wiele różnych minigier.",
     "mcdesc": "Minecraft to gra typu sandbox stworzona przez firmę Mojang. Gracze mogą kopać rudy, tworzyć narzędzia i bloki oraz budować struktury.",
     "Back": "Back",
-    "Restart": "Restart"
+    "Restart": "Restart",
+    "Yes": "Tak",
+    "No": "Nie"
 }
