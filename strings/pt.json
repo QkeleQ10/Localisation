@@ -1,5 +1,7 @@
 {
     "Language": "Idioma",
+    "Select a language": "Seleciona um idioma",
+    "Changing your language will clear your progress.": "Alterar o idioma irá apagar o teu progresso.",
     "Translate": "Traduzir",
     "Contribute": "Contribuir",
     "Troubleshoot": "Resolver problemas",
@@ -10,6 +12,8 @@
     "Proofreader": "Revisor",
     "Translator": "Tradutor",
     "Subsites": "Páginas",
+    "PreMiD Trouble&shy;shooting": "Resolução de problemas do PreMiD",
+    "PreMiD Troubleshooting": "Resolução de problemas do PreMiD",
     "premidtsdesc": "Uma ferramenta fácil que podes utilizar para resolver quaisquer problemas que tenhas com o PreMiD. Usa-a antes de abrires um ticket de suporte.",
     "othersUnav": "Os meus projetos estão a ser revistos e repensados neste momento. Volta novamente mais tarde ou visita o meu GitHub para veres o que estou a fazer!",
     "Crowdin projects": "Projetos do Crowdin",
@@ -18,8 +22,8 @@
     "premiddesc": "O PreMiD é uma ferramenta simples e configurável que te permite mostrar o que estás a fazer na internet no teu estado do Discord.",
     "hypixeldesc": "O Hypixel é o servidor de Minecraft mais popular do mundo, no qual podes jogar diversos jogos.",
     "mcdesc": "O Minecraft é um jogo de sandbox desenvolvido pela Mojang. Os jogadores podem escavar materiais, criar ferramentas e blocos e construir estruturas.",
-    "Back": "Back",
-    "Restart": "Restart",
+    "Back": "Voltar",
+    "Restart": "Reiniciar",
     "Yes": "Sim",
     "No": "Não"
 }

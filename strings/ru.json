@@ -1,5 +1,7 @@
 {
     "Language": "Язык",
+    "Select a language": "Select a language",
+    "Changing your language will clear your progress.": "Changing your language will clear your progress.",
     "Translate": "Перевести",
     "Contribute": "Делать вклад",
     "Troubleshoot": "Устранение неполадок",
@@ -10,6 +12,8 @@
     "Proofreader": "Корректор",
     "Translator": "Переводчик",
     "Subsites": "Подсайты",
+    "PreMiD Trouble&shy;shooting": "PreMiD Trouble&shy;shooting",
+    "PreMiD Troubleshooting": "PreMiD Troubleshooting",
     "premidtsdesc": "Простая онлайн-проверка, которую вы можете запустить, чтобы исправить любые проблемы с PreMiD, которые могут у вас возникнуть. Сделайте это перед созданием заявки в службу поддержки.",
     "othersUnav": "Остальные мои проекты в настоящее время пересматриваются и переосмысливаются. Пожалуйста, зайдите позже или просмотрите мой GitHub, чтобы узнать, чем я занимаюсь!",
     "Crowdin projects": "Краудин-проекты",

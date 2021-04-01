@@ -1,5 +1,7 @@
 {
     "Language": "Taal",
+    "Select a language": "Selecteer een taal",
+    "Changing your language will clear your progress.": "Je voortgang gaat verloren als je van taal wisselt.",
     "Translate": "Vertalen",
     "Contribute": "Bijdragen",
     "Troubleshoot": "Problemen oplossen",
@@ -10,6 +12,8 @@
     "Proofreader": "Proeflezer",
     "Translator": "Vertaler",
     "Subsites": "Subsites",
+    "PreMiD Trouble&shy;shooting": "PreMiD-&shy;probleem&shy;oplossing",
+    "PreMiD Troubleshooting": "PreMiD-probleemoplossing",
     "premidtsdesc": "Een eenvoudige online check die je kunt uitvoeren om eventuele problemen met PreMiD op te lossen. Doe dit voordat je ondersteuning aanvraagt.",
     "othersUnav": "Mijn andere projecten worden momenteel herzien en heroverwogen. Kom later terug of bekijk mijn GitHub om te zien wat ik doe!",
     "Crowdin projects": "Crowdin-projecten",

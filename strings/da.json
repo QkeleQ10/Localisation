@@ -1,5 +1,7 @@
 {
     "Language": "Sprog",
+    "Select a language": "Select a language",
+    "Changing your language will clear your progress.": "Changing your language will clear your progress.",
     "Translate": "Translate",
     "Contribute": "Contribute",
     "Troubleshoot": "Troubleshoot",
@@ -10,6 +12,8 @@
     "Proofreader": "Proofreader",
     "Translator": "Translator",
     "Subsites": "Subsites",
+    "PreMiD Trouble&shy;shooting": "PreMiD Trouble&shy;shooting",
+    "PreMiD Troubleshooting": "PreMiD Troubleshooting",
     "premidtsdesc": "An easy online check you can run to fix any issues with PreMiD you might have. Do this before creating a support ticket.",
     "othersUnav": "My other projects are currently being overhauled and rethought. Please check back later, or view my GitHub to see what I'm up to!",
     "Crowdin projects": "Crowdin projects",
