@@ -1,5 +1,7 @@
 {
     "Language": "Nyelv",
+    "Select a language": "Select a language",
+    "Changing your language will clear your progress.": "Changing your language will clear your progress.",
     "Translate": "Translate",
     "Contribute": "Contribute",
     "Troubleshoot": "Troubleshoot",
@@ -10,6 +12,8 @@
     "Proofreader": "Proofreader",
     "Translator": "Translator",
     "Subsites": "Subsites",
+    "PreMiD Trouble&shy;shooting": "PreMiD Trouble&shy;shooting",
+    "PreMiD Troubleshooting": "PreMiD Troubleshooting",
     "premidtsdesc": "An easy online check you can run to fix any issues with PreMiD you might have. Do this before creating a support ticket.",
     "othersUnav": "My other projects are currently being overhauled and rethought. Please check back later, or view my GitHub to see what I'm up to!",
     "Crowdin projects": "Crowdin projects",
@@ -17,5 +21,9 @@
     "spotistatsdesc": "Spotistats for Spotify provides insight into your most listened songs and artists, with a choice of different periods.",
     "premiddesc": "PreMiD is a simple, configurable utility that allows you to show what you're doing on the web in your Discord now playing status.",
     "hypixeldesc": "Hypixel is the most popular Minecraft server network in the world, on which you can play a variety of minigames.",
-    "mcdesc": "Minecraft is a sandbox video game developed by Mojang. Players may mine materials, craft tools and blocks, and build structures."
+    "mcdesc": "Minecraft is a sandbox video game developed by Mojang. Players may mine materials, craft tools and blocks, and build structures.",
+    "Back": "Back",
+    "Restart": "Restart",
+    "Yes": "Yes",
+    "No": "No"
 }

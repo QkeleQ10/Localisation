@@ -1,5 +1,7 @@
 {
     "Language": "Dil",
+    "Select a language": "Bir dil seçin",
+    "Changing your language will clear your progress.": "Dilinizi değiştirmek ilerlemenizi temizleyecektir.",
     "Translate": "Çeviri",
     "Contribute": "Katkıda bulun",
     "Troubleshoot": "Sorun giderme",
@@ -10,6 +12,8 @@
     "Proofreader": "Düzeltmen",
     "Translator": "Çevirmen",
     "Subsites": "Alt siteler",
+    "PreMiD Trouble&shy;shooting": "PreMiD Sorun&shy;Giderme\n",
+    "PreMiD Troubleshooting": "PreMİD Sorun Giderme",
     "premidtsdesc": "PreMiD ile ilgili sahip olabileceğiniz sorunları gidermek için çalıştırabileceğiniz kolay bir çevrimiçi kontrol. Bunu bir destek bileti oluşturmadan önce yapın.",
     "othersUnav": "Diğer projelerim şu anda elden geçiriliyor ve yeniden düşünülüyor. Lütfen daha sonra tekrar kontrol edin veya ne yaptığımı görmek için GitHub'ımı görüntüleyin!",
     "Crowdin projects": "Crowdin projeleri",
@@ -17,5 +21,9 @@
     "spotistatsdesc": "Spotify için Spotistats, farklı dönem seçenekleriyle en çok dinlediğiniz şarkılara ve sanatçılara ilişkin bilgi sağlar.",
     "premiddesc": "PreMiD, Web'te ne izlediğinizi ve dinlediğinizi Discord üzerinden gösteren bir yardımcı programdır.",
     "hypixeldesc": "Hypixel, çeşitli mini oyunları oynayabileceğiniz dünyanın en popüler Minecraft sunucu ağıdır.",
-    "mcdesc": "Minecraft, Mojang tarafından geliştirilmiş bir sanal alan video oyunudur. Oyuncular malzeme çıkarabilir, aletler ve bloklar yapabilir ve yapılar inşa edebilir."
+    "mcdesc": "Minecraft, Mojang tarafından geliştirilmiş bir sanal alan video oyunudur. Oyuncular malzeme çıkarabilir, aletler ve bloklar yapabilir ve yapılar inşa edebilir.",
+    "Back": "Geri Dön",
+    "Restart": "Yeniden Başlat",
+    "Yes": "Evet",
+    "No": "Hayır"
 }
