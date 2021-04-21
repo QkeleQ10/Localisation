@@ -27,5 +27,10 @@
     "Back": "Terug",
     "Restart": "Opnieuw",
     "Yes": "Ja",
-    "No": "Nee"
+    "No": "Nee",
+    "Oops!": "Oops!",
+    "404desc": "That page doesn't exist here. You'll be redirected to the main page in a moment.",
+    "Update available": "Update available",
+    "updatedesc": "The extension you were using has an update available, which might include new features and improved stability. Use the button below to download the update.",
+    "Download": "Download"
 }
