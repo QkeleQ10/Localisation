@@ -73,7 +73,7 @@
         "safari": "Safari",
         "opera": "Opera",
         "braveComplication": "Please go to brave://settings/shields and disable the setting called 'Trackers & ads blocking'.",
-        "operaComplication": "Before you can install the PreMiD extension, you need to install 'https://addons.opera.com/en/extensions/details/install-chrome-extensions'.",
+        "operaComplication": "Before you can install the PreMiD extension, you need to install <a href='https://addons.opera.com/en/extensions/details/install-chrome-extensions'>this extension</a>.",
         "otherChromium": "Başka bir Chromium tarayıcısı",
         "otherNonChromium": "Chromium olmayan başka bir tarayıcı",
         "browserUnsure": "PreMiD might not work on your browser (yet). Please join our <a href='https://discord.premid.app'>Discord server</a> and check with a support agent!",
