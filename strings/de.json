@@ -28,9 +28,9 @@
     "Restart": "Neustarten",
     "Yes": "Ja",
     "No": "Nein",
-    "Oops!": "Oops!",
-    "404desc": "That page doesn't exist here. You'll be redirected to the main page in a moment.",
-    "Update available": "Update available",
-    "updatedesc": "The extension you were using has an update available, which might include new features and improved stability. Use the button below to download the update.",
-    "Download": "Download"
+    "Oops!": "Hoppla!",
+    "404desc": "Diese Seite existiert hier nicht. Du wirst gleich zur Hauptseite weitergeleitet.",
+    "Update available": "Update verfügbar",
+    "updatedesc": "Für die von dir verwendete Erweiterung ist ein Update verfügbar, das möglicherweise neue Funktionen und verbesserte Stabilität enthalten kann. Verwende die Schaltfläche unten, um das Update herunterzuladen.",
+    "Download": "Herunterladen"
 }
