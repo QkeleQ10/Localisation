@@ -63,7 +63,7 @@
         "windowsOld": "Windows Vista or older",
         "windowsNew": "Windows 7, 8 or 10",
         "upgradeWindows": "PreMiD does not support your operating system and will most likely never support it in the future. Please consider upgrading to a newer operating system such as Windows 10!",
-        "updateMacos": "PreMiD does not support your operating system and will most likely never support it in the future. Please consider upgrading to a newer operating system. Check out this <a href=\\\"https://support.apple.com/en-gb/HT201541\\\">Apple help guide</a> for more info.",
+        "updateMacos": "PreMiD does not support your operating system and will most likely never support it in the future. Please consider upgrading to a newer operating system. Check out this <a href='https://support.apple.com/en-gb/HT201541'>guide from Apple</a> for more info.",
         "noChromeosSupport": "PreMiD does not support Chrome OS yet. Attempting to use it might get your device stuck in a bootloop!",
         "whatBrowser": "What browser are you using?",
         "microsoftEdge": "Microsoft Edge",
