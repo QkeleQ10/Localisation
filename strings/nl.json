@@ -28,9 +28,9 @@
     "Restart": "Opnieuw",
     "Yes": "Ja",
     "No": "Nee",
-    "Oops!": "Oops!",
-    "404desc": "That page doesn't exist here. You'll be redirected to the main page in a moment.",
-    "Update available": "Update available",
-    "updatedesc": "The extension you were using has an update available, which might include new features and improved stability. Use the button below to download the update.",
-    "Download": "Download"
+    "Oops!": "Oeps!",
+    "404desc": "Die pagina bestaat hiet niet. Je wordt zo teruggestuurd naar de hoofdpagina.",
+    "Update available": "Update beschikbaar",
+    "updatedesc": "De extensie die je gebruikte heeft een update met mogelijk nieuwe functies en verbeterde stabiliteit beschikbaar. Gebruik de knop hieronder om de update te downloaden.",
+    "Download": "Downloaden"
 }
