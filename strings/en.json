@@ -56,7 +56,7 @@
         "specificPresenceIssue": "Make sure you've installed the presence for the site you want it to display for. If a presence doesn't work, please explain the issue in the #support channel in our <a href='https://discord.premid.app'>Discord server</a>.",
         "whatOS": "What operating system (OS) are you using?",
         "anotherLinux": "Another Linux-based operating system",
-        "linuxUnsure": "PreMiD does support most Linux distrubutions, but not all of them. Please read this <a href='https://github.com/PreMiD/Linux/blob/master/README.md'>GitHub article</a>. If that doesn't help, open a ticket in the #support channel in our <a href='https://discord.premid.app'>Discord server</a>.",
+        "linuxUnsure": "PreMiD does support most Linux distributions, but not all of them. Please read this <a href='https://github.com/PreMiD/Linux/blob/master/README.md'>GitHub article</a>. If that doesn't help, open a ticket in the #support channel in our <a href='https://discord.premid.app'>Discord server</a>.",
         "chromeos": "Chrome OS",
         "macosOld": "macOS 10.10 or older",
         "macosNew": "macOS 10.11 or newer",
