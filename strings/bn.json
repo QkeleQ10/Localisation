@@ -28,9 +28,9 @@
     "Restart": "রিস্টার্ট",
     "Yes": "হ্যাঁ",
     "No": "না",
-    "Oops!": "Oops!",
-    "404desc": "That page doesn't exist here. You'll be redirected to the main page in a moment.",
-    "Update available": "Update available",
-    "updatedesc": "The extension you were using has an update available, which might include new features and improved stability. Use the button below to download the update.",
-    "Download": "Download"
+    "Oops!": "ওহো!",
+    "404desc": "সেই পেজটি নেই এখানে। আপনি মুহূর্তের মধ্যে মেইন পেজে রিডাইরেক্ট করবেন।",
+    "Update available": "আপডেট আছে",
+    "updatedesc": "যে এক্সটেনশন আপনি ব্যবহার করছিলেন সেটির একটি আপডেট আছে, যেটার মধ্যে নতুন ফিচার এবং উন্নত স্থিতিশীলতা থাকতে পারে। নিচের বাটনটি ব্যবহার করুন আপডেটটি ডাউনলোড করতে।",
+    "Download": "ডাউনলোড করুন"
 }
