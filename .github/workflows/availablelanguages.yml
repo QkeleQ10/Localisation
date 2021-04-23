@@ -17,7 +17,7 @@ jobs:
       env:
         SECRETPAT: ${{ secrets.CROWDINPAT_availableLanguages }}
       run: |
-        curl -X GET https://crowdin.com/api/v2/projects/428718/languages/progress -H "Authorization: Bearer $SECRETPAT" -o availableLanguages.json
+        curl -X GET https://crowdin.com/api/v2/projects/428718/languages/progress?limit=500 -H "Authorization: Bearer $SECRETPAT" -o availableLanguages.json
         git config --global user.name "GitHub Action"
         git config --global user.email "quintenra@gmail.com"
         git add availableLanguages.json
