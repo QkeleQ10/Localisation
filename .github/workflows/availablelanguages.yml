@@ -22,3 +22,4 @@ jobs:
         git config --global user.email "quintenra@gmail.com"
         git add availableLanguages.json
         git commit -m "Language fetching"
+        git push
