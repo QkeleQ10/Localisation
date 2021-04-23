@@ -20,4 +20,4 @@ jobs:
 
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        repository: https://github.com/QkeleQ10/Localisation.git
+        skip_dirty_check: true 
