@@ -20,5 +20,5 @@ jobs:
         curl -X GET https://crowdin.com/api/v2/projects/428718/languages/progress -H "Authorization: Bearer $SECRETPAT" -o availableLanguages.json
         git config --global user.name "Automated language fetching"
         git config --global user.email "quintenra@gmail.com"
-        git add
+        git add availableLanguages.json
         git commit
