@@ -20,4 +20,4 @@ jobs:
 
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: Apply php-cs-fixer changes
+        repository: https://github.com/QkeleQ10/Localisation.git
