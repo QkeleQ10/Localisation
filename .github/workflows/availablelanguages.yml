@@ -12,12 +12,13 @@ jobs:
   availableLanguages:
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/checkout@v2
     - shell: bash
       env:
         SECRETPAT: ${{ secrets.CROWDINPAT_availableLanguages }}
       run: |
         curl -X GET https://crowdin.com/api/v2/projects/428718/languages/progress -H "Authorization: Bearer $SECRETPAT" -o availableLanguages.json
-
-    - uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        skip_dirty_check: true 
+        git config --global user.name "Automated language fetching"
+        git config --global user.email "quintenra@gmail.com"
+        git add
+        git commit
