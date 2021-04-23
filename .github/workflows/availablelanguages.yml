@@ -17,3 +17,7 @@ jobs:
         SECRETPAT: ${{ secrets.CROWDINPAT_availableLanguages }}
       run: |
         curl -X GET https://crowdin.com/api/v2/projects/428718/languages/progress -H "Authorization: Bearer $SECRETPAT" -o availableLanguages.json
+
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Apply php-cs-fixer changes
