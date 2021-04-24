@@ -76,7 +76,7 @@
         "operaComplication": "Bevor du die PreMiD-Erweiterung installieren kannst, musst du <a href='https://addons.opera.com/en/extensions/details/install-chrome-extensions'>diese Erweiterung</a> installieren.",
         "otherChromium": "Ein anderer Chromium-Browser",
         "otherNonChromium": "Ein anderer Nicht-Chromium-Browser",
-        "browserUnsure": "PreMiD funktioniert vielleicht (noch) nicht in deinem Browser. Bitte tritt unserem <a href='https://discord.premid.app'>Discord-Server</a> bei und wende dich an einen Supportmitarbeiter!",
+        "browserUnsure": "PreMiD funktioniert vielleicht (noch) nicht in deinem Browser. Bitte tritt unserem <a href='https://discord.premid.app'>Discord-Server</a> bei und wende dich an eine/n Support-Agent/-in!",
         "noDiagnosis": "Dieser Problemlöser konnte dein Problem nicht diagnostizieren. Versuche dein Problem im #support-Kanal auf unserem <a href='https://discord.premid.app'>Discord-Server</a> zu schildern."
     }
 }
