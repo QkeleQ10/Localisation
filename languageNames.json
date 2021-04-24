@@ -3,11 +3,13 @@
     "de": "Deutsch",
     "en": "English",
     "fr": "Français",
-    "gd": "Gáidhlig",
+    "gd": "Gàidhlig",
     "nl": "Nederlands",
     "pl": "Polski",
     "pt-PT": "Português",
     "ru": "Русский",
     "sv-SE": "Svenska",
-    "tr": "Türkçe"
+    "tr": "Türkçe",
+    "cs": "Čeština",
+    "hu": "Magyar"
 }
