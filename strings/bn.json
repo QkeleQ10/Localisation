@@ -77,9 +77,9 @@
         "otherChromium": "অন্য একটি Chromium ব্রাউজার",
         "otherNonChromium": "অন্য একটি Chromium ছাড়া ব্রাউজার",
         "browserUnsure": "PreMiD কাজ নাও করতে পারে তোমার ব্রাউজারে (এখনো)। আমাদের <a href='https://discord.premid.app'>Discord সার্ভারে</a> জয়েন করো এবং একজন সাপোর্ট এজেন্টকে জিজ্ঞাসা করো!",
-        "noDiagnosis": "This troubleshooter couldn't diagnose your issue.",
-        "copyTease": "You can <a onclick='copy(%deadend%)'>copy this result</a> and include it in a message to the #support channel on our <a href='https://discord.premid.app'>Discord server</a>.",
-        "copiedDesc": "You can now paste the result inside your message to the #support channel on our <a href='https://discord.premid.app'>Discord server</a>.",
-        "Copied the result": "Copied the result"
-    }
+        "noDiagnosis": "This troubleshooter couldn't diagnose your issue."
+    },
+    "copyTease": "You can <a onclick='copy(%deadend%)'>copy this result</a> and include it in a message to the #support channel on our <a href='https://discord.premid.app'>Discord server</a>.",
+    "copiedDesc": "You can now paste the result inside your message to the #support channel on our <a href='https://discord.premid.app'>Discord server</a>.",
+    "Copied the result": "Copied the result"
 }
