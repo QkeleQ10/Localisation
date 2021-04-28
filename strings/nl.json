@@ -77,9 +77,10 @@
         "otherChromium": "Een andere Chromium-browser",
         "otherNonChromium": "Een andere niet-Chromium-browser",
         "browserUnsure": "PreMiD werkt mogelijk (nog) niet op je browser. Treed onze <a href='https://discord.premid.app'>Discord-server</a> toe en vraag het aan een ondersteuningsmedewerker!",
-        "noDiagnosis": "Deze probleemoplosser kon je probleemoplosser niet analyseren."
+        "noDiagnosis": "Deze probleemoplosser kon je probleem niet analyseren."
     },
-    "copyTease": "You can <a onclick='copy(%deadend%)'>copy this result</a> and include it in a message to the #support channel on our <a href='https://discord.premid.app'>Discord server</a>.",
-    "copiedDesc": "You can now paste the result inside your message to the #support channel on our <a href='https://discord.premid.app'>Discord server</a>.",
-    "Copied the result": "Copied the result"
+    "copyTease": "Je kunt <a onclick='copy(%deadend%)'>dit resultaat kopiëren</a> en deze meesturen in een bericht naar het #support-kanaal in onze <a href='https://discord.premid.app'>Discord-server</a>.",
+    "copiedDesc": "Je kunt het resultaat nu plakken in je bericht naar het #support-kanaal in onze <a href='https://discord.premid.app'>Discord-server</a>.",
+    "Copied the result": "Resultaat gekopieerd",
+    "Contact and more": "Contact and more"
 }
