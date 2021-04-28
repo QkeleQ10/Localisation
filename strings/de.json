@@ -4,8 +4,8 @@
     "languageTitle": "Deutsch",
     "Translate": "Übersetzen",
     "Contribute": "Beitragen",
-    "Troubleshoot": "Probleme lösen",
-    "Troubleshooter": "Problemlöser",
+    "Troubleshoot": "Fehlersuche",
+    "Troubleshooter": "Fehlersucher",
     "Coming soon": "In Kürze verfügbar",
     "Owner": "Besitzer",
     "Localisation manager": "Lokalisierungsmanager",
@@ -14,8 +14,8 @@
     "About me": "Über mich",
     "aboutme": "Ein Schüler aus den Niederlanden mit einer Leidenschaft für Lokalisierung, Programmierung und Design, der die Welt verbessern will, indem er Werkzeuge für alle schafft, die jeder nutzen kann.",
     "Subsites": "Unterseiten",
-    "PreMiD Trouble&shy;shooting": "PreMiD-Fehler&shy;behebung",
-    "PreMiD Troubleshooting": "PreMiD-Fehlerbehebung",
+    "PreMiD Trouble&shy;shooting": "PreMiD-Fehler&shy;suche",
+    "PreMiD Troubleshooting": "PreMiD-Fehlersuche",
     "premidtsdesc": "Du kannst eine simple Online-Überprüfung durchführen, um Fehler, die du vielleicht mit PreMiD hast, zu beheben. Bitte versuche dies zuerst, bevor du ein Support-Ticket erstellst.",
     "othersUnav": "Meine anderen Projekte werden gerade überarbeitet und überdacht. Bitte schaue später wieder vorbei oder sieh dir mein GitHub an, um zu sehen, was ich gerade mache!",
     "Crowdin projects": "Crowdin-Projekte",
@@ -77,9 +77,10 @@
         "otherChromium": "Ein anderer Chromium-Browser",
         "otherNonChromium": "Ein anderer Nicht-Chromium-Browser",
         "browserUnsure": "PreMiD funktioniert vielleicht (noch) nicht in deinem Browser. Bitte tritt unserem <a href='https://discord.premid.app'>Discord-Server</a> bei und wende dich an eine/n Support-Agent/-in!",
-        "noDiagnosis": "This troubleshooter couldn't diagnose your issue."
+        "noDiagnosis": "Diese Fehlersuche konnte dein Problem nicht diagnostizieren."
     },
-    "copyTease": "You can <a onclick='copy(%deadend%)'>copy this result</a> and include it in a message to the #support channel on our <a href='https://discord.premid.app'>Discord server</a>.",
-    "copiedDesc": "You can now paste the result inside your message to the #support channel on our <a href='https://discord.premid.app'>Discord server</a>.",
-    "Copied the result": "Copied the result"
+    "copyTease": "Du kannst <a onclick='copy(%deadend%)'>dieses Ergebnis kopieren</a> und es in eine Nachricht in den #support-Kanal auf unserem <a href='https://discord.premid.app'>Discord-Server</a> einfügen.",
+    "copiedDesc": "Du kannst nun das Ergebnis in deine Nachricht in den #support-Kanal auf unserem <a href='https://discord.premid.app'>Discord-Server</a> einfügen.",
+    "Copied the result": "Ergebnis kopiert",
+    "Contact and more": "Contact and more"
 }
