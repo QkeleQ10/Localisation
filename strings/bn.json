@@ -82,5 +82,9 @@
     "copyTease": "তুমি <a onclick='copy(%deadend%)'>এই ফলাফলটিকে কপি</a> করতে পারো এবং একটি মেসেজে যুক্ত করতে পারো আমাদের <a href='https://discord.premid.app'>Discord সার্ভারের</a> #support চ্যানেলে।",
     "copiedDesc": "তুমি এখন পেস্ট করতে পারবে ফলাফলটি তোমার মেসেজের মধ্যে আমাদের <a href='https://discord.premid.app'>Discord সার্ভারের</a> #support চ্যানেলে।",
     "Copied the result": "ফলাফলটি কপি করা হয়েছে",
-    "Contact and more": "যোগাযোগ এবং আরো"
+    "Contact and more": "যোগাযোগ এবং আরো",
+    "Information": "Information",
+    "infoDesc": "This tool was built for the PreMiD community by QkeleQ10#8482.<br>It is acknowledged by but not owned by or affiliated with PreMiD.",
+    "PreMiD website": "PreMiD website",
+    "PreMiD Discord server": "PreMiD Discord server"
 }
