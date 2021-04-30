@@ -77,14 +77,14 @@
         "otherChromium": "Başka bir Chromium tarayıcısı",
         "otherNonChromium": "Chromium olmayan başka bir tarayıcı",
         "browserUnsure": "PreMiD, tarayıcınızda (henüz) çalışmayabilir. Lütfen katılın <a href='https://discord.premid.app'>Discord Sunucumuz</a> ve bir destek temsilcisiyle görüşün!\n",
-        "noDiagnosis": "This troubleshooter couldn't diagnose your issue."
+        "noDiagnosis": "Bu sorun giderici, sorununuzu teşhis edemedi."
     },
-    "copyTease": "You can <a onclick='copy(%deadend%)'>copy this result</a> and include it in a message to the #support channel on our <a href='https://discord.premid.app'>Discord server</a>.",
-    "copiedDesc": "You can now paste the result inside your message to the #support channel on our <a href='https://discord.premid.app'>Discord server</a>.",
-    "Copied the result": "Copied the result",
-    "Contact and more": "Contact and more",
-    "Information": "Information",
-    "infoDesc": "This tool was built for the PreMiD community by QkeleQ10#8482.<br>It is acknowledged by but not owned by or affiliated with PreMiD.",
-    "PreMiD website": "PreMiD website",
-    "PreMiD Discord server": "PreMiD Discord server"
+    "copyTease": "Yapabilirsin <a onclick='copy(%deadend%)'>bu sonucu kopyala</a> ve bunu #support kanalımızdaki bir mesaja ekleyin. <a href='https://discord.premid.app'>Discord Sunucusu</a>.",
+    "copiedDesc": "Artık sonucu mesajınızın içindeki #support kanalımıza yapıştırabilirsiniz. <a href='https://discord.premid.app'>Discord Sunucusu</a>.",
+    "Copied the result": "Sonucu kopyaladı",
+    "Contact and more": "İletişim ve daha fazlası",
+    "Information": "Bilgi",
+    "infoDesc": "Bu araç, PreMiD topluluğu için geliştirildi by QkeleQ10#8482.<br>PreMiD tarafından kabul edilir, ancak sahibi değildir veya PreMiD ile bağlantılı değildir.",
+    "PreMiD website": "PreMiD web sitesi",
+    "PreMiD Discord server": "PreMiD Discord sunucusu"
 }
