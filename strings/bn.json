@@ -23,7 +23,7 @@
     "spotistatsdesc": "Spotify এর জন্য Spotistats দেয় পরিজ্ঞান আপনার সবচেয়ে বেশি শোনা গান এবং আর্টিস্টদের, বিভিন্ন সময়ের অপশনের সাথেও।",
     "premiddesc": "PreMiD হচ্ছে একটি সহজ, পরিবর্তনযোগ্য ইউটিলিটি যা দেখায় তুমি কী করছ ইন্টারনেটে তোমার Discord - এর প্লেয়িং স্ট্যাটাসে।",
     "hypixeldesc": "Hypixel হচ্ছে বিশ্বের সবচেয়ে জনপ্রিয় Minecraft সার্ভার নেটওয়ার্ক, যেখানে আপনি বিভিন্ন ধরনের মিনিগেম খেলতে পারেন।",
-    "mcdesc": "Minecraft হচ্ছে একটি স্যান্ডবক্স ভিডিও গেম যা Mojang দ্বারা নির্মিত। প্লেয়ারদের মেটেরিয়াল, ক্রাফট টুল এবং ব্লক মাইন করতে হয়, এবং স্ট্রাকচার বিল্ড করতে হয়।",
+    "mcdesc": "Minecraft হচ্ছে একটি স্যান্ডবক্স ভিডিও গেম যা Mojang দ্বারা নির্মিত। প্লেয়ারদের মেটেরিয়াল, টুল ক্রাফট এবং ব্লক মাইন করতে হয়, এবং স্ট্রাকচার বিল্ড করতে হয়।",
     "Back": "ফিরে যান",
     "Restart": "রিস্টার্ট",
     "Yes": "হ্যাঁ",
@@ -83,8 +83,8 @@
     "copiedDesc": "তুমি এখন পেস্ট করতে পারবে ফলাফলটি তোমার মেসেজের মধ্যে আমাদের <a href='https://discord.premid.app'>Discord সার্ভারের</a> #support চ্যানেলে।",
     "Copied the result": "ফলাফলটি কপি করা হয়েছে",
     "Contact and more": "যোগাযোগ এবং আরো",
-    "Information": "Information",
-    "infoDesc": "This tool was built for the PreMiD community by QkeleQ10#8482.<br>It is acknowledged by but not owned by or affiliated with PreMiD.",
-    "PreMiD website": "PreMiD website",
-    "PreMiD Discord server": "PreMiD Discord server"
+    "Information": "তথ্য",
+    "infoDesc": "এই টুলটি তৈরি করা হয়েছিল PreMiD কমিউনিটি এর জন্য QkeleQ10#8482 দ্বারা।<br>এটি স্বীকৃত কিন্তু মালিকানাধীন বা সম্বন্ধযুক্ত নয় PreMiD দ্বারা।",
+    "PreMiD website": "PreMiD ওয়েবসাইট",
+    "PreMiD Discord server": "PreMiD Discord সার্ভার"
 }
