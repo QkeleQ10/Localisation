@@ -54,7 +54,7 @@
         "applicationUpdated": "PreMiD অ্যাপ্লিকেশনটি আপডেট করো। মাউসের ডান পাশের বাটনটি ক্লিক করো টাস্কবারে (সম্ভবত নিচে যে তীর চিন্হটি উপরে পয়েন্ট করে আছে) এবং ক্লিক করো 'Check for updates'.",
         "presenceMainSite": "<a href='https://premid.app'>আমাদের মেইন ওয়েবসাইট</a> ওপেন করার চেষ্টা করো। এটা কি ওটার জন্য একটি Presence দেখায়?",
         "specificPresenceIssue": "নিশ্চিত করো তুমি সেই Presence - টি ইন্সটল করেছ যেই ওয়েবসাইটকে তুমি দেখাতে চাও। যদি একটি Presence কাজ না করে, সমস্যাটি ব্যাখ্যা করো আমাদের <a href='https://discord.premid.app'>Discord সার্ভারের</a> #support চ্যানেলে।",
-        "whatOS": "কোন অপারেটিং সিস্টেম তুমি ব্যবহার করছ?",
+        "whatOS": "কোন অপারেটিং সিস্টেম (OS) তুমি ব্যবহার করছ?",
         "anotherLinux": "অন্য একটি লিনাক্স ভিত্তিক অপারেটিং সিস্টেম",
         "linuxUnsure": "PreMiD বেশিরভাগ লিনাক্স ডিস্ট্রিবিউশন সাপোর্ট করে, কিন্তু সবকটা নয়। এই <a href='https://github.com/PreMiD/Linux/blob/master/README.md'>গিটহাব আর্টিকেলটি</a> পড়। যদি সেটা সাহায্য না করে, তাহলে একটি টিকেট ওপেন করো #support চ্যানেলে আমাদের <a href='https://discord.premid.app'>Discord সার্ভারে</a>।",
         "chromeos": "Chrome OS",
