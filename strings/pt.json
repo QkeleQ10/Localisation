@@ -54,7 +54,7 @@
         "applicationUpdated": "Update the PreMiD application. Right-click the PreMiD icon in the taskbar (possibly underneath the arrow pointing up) and click 'Check for updates'.",
         "presenceMainSite": "Experimenta abrir o <a href='https://premid.app'>nosso site</a>. Vês a nossa presence?",
         "specificPresenceIssue": "Certifica-te de que instalaste a presence para o site que queres mostrar. Se uma presence não funciona, explica o problema no canal #support no nosso <a href='https://discord.premid.app'>servidor de Discord</a>.",
-        "whatOS": "What operating system (OS) are you using?",
+        "whatOS": "What operating system are you using?",
         "anotherLinux": "Outro sistema operativo baseado em Linux",
         "linuxUnsure": "PreMiD does support most Linux distributions, but not all of them. Please read this <a href='https://github.com/PreMiD/Linux/blob/master/README.md'>GitHub article</a>. If that doesn't help, open a ticket in the #support channel in our <a href='https://discord.premid.app'>Discord server</a>.",
         "chromeos": "Chrome OS",
