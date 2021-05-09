@@ -16,7 +16,7 @@
     "Subsites": "Подсайты",
     "PreMiD Trouble&shy;shooting": "Устранение неполадок PreMiD",
     "PreMiD Troubleshooting": "PreMiD Устранение неполадок",
-    "premidtsdesc": "Простая онлайн-проверка, которую вы можете запустить, чтобы исправить любые проблемы с PreMiD, которые могут у вас возникнуть. Сделайте это перед созданием заявки в службу поддержки.",
+    "premidtsdesc": "Простая онлайн проверка, которую вы можете запустить, чтобы исправить любые проблемы связанные с PreMiD, которые могут у вас возникнуть. Сделайте это перед созданием билета в поддержку.",
     "othersUnav": "Остальные мои проекты в настоящее время пересматриваются и переосмысливаются. Пожалуйста, зайдите позже или просмотрите мой GitHub, чтобы узнать, чем я занимаюсь!",
     "Crowdin projects": "Краудин-проекты",
     "qkeleqdesc": "Большинство субсайтов, представленных на этой странице, локализованы с использованием одного проекта на Crowdin. Любая помощь очень ценится!",
@@ -77,14 +77,14 @@
         "otherChromium": "Другой браузер Chromium",
         "otherNonChromium": "Другой браузер, отличный от Chromium",
         "browserUnsure": "PreMiD может (пока) не работать на вашем браузере. Пожалуйста, присоединитесь к нашему <a href='https://discord.premid.app'>Discord серверу</a> и уточните это у агента поддержки!",
-        "noDiagnosis": "This troubleshooter couldn't diagnose your issue."
+        "noDiagnosis": "Это средство устранения неполадок не смогло обнаружить вашу проблему."
     },
-    "copyTease": "You can <a onclick='copy(%deadend%)'>copy this result</a> and include it in a message to the #support channel on our <a href='https://discord.premid.app'>Discord server</a>.",
-    "copiedDesc": "You can now paste the result inside your message to the #support channel on our <a href='https://discord.premid.app'>Discord server</a>.",
-    "Copied the result": "Copied the result",
-    "Contact and more": "Contact and more",
-    "Information": "Information",
-    "infoDesc": "This tool was built for the PreMiD community by QkeleQ10#8482.<br>It is acknowledged by but not owned by or affiliated with PreMiD.",
-    "PreMiD website": "PreMiD website",
-    "PreMiD Discord server": "PreMiD Discord server"
+    "copyTease": "Вы можете <a onclick='copy(%deadend%)'>скопировать этот результат</a>, включить его в сообщение и отправить его в канал #support на нашем <a href='https://discord.premid.app'>Discord сервере</a>.",
+    "copiedDesc": "Теперь вы можете вставить результат в ваше сообщение и отправить его в канал #support на нашем <a href='https://discord.premid.app'>Discord сервере</a>.",
+    "Copied the result": "Результат скопирован",
+    "Contact and more": "Связаться и другое",
+    "Information": "Информация",
+    "infoDesc": "Этот инструмент был создан для сообщества PreMiD пользователем QkeleQ10#8482.<br>Он он известен, но не принадлежит или не связан с PreMiD.",
+    "PreMiD website": "Сайт PreMiD",
+    "PreMiD Discord server": "Discord сервер PreMiD"
 }
