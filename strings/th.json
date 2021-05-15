@@ -44,7 +44,7 @@
         "yes": "Yes",
         "no": "No",
         "installedBoth": "Have you installed both the PreMiD extension and application?",
-        "installBoth": "Please install the PreMiD extension and application from <a href='https://premid.app/downloads' target='_blank' rel='noopener noreferrer'>our site</a>.",
+        "installBoth": "โปรดติดตั้งส่วนขยายและแอปของ PreMiD จาก<a href='https://premid.app/downloads' target='_blank' rel='noopener noreferrer'>เว็บไซต์ของเรา</a>",
         "discordPlatform": "How are you using Discord?",
         "desktopApp": "Via the desktop app",
         "mobile": "On my phone or tablet",
