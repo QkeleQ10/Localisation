@@ -58,7 +58,7 @@
         "yesYellow": "Yes, a yellow one",
         "yesRed": "Yes, a red one",
         "applicationRunning": "Ujistěte se, že je aplikace PreMiD spuštěna. Pokud to nefunguje, zkuste restartovat prohlížeč. Ujistěte se, že jsi nespustil Discord s právy správce. <br>Pokud tyto kroky nefungují, zkus přeinstalovat PreMiD <a href='https://premid.app/downloads' target='_blank' rel='noopener noreferrer'>zde</a>.",
-        "applicationUpdated": "Update the PreMiD application. Right-click the PreMiD icon in the taskbar and click 'Check for updates'. If you don't see the icon, click the arrow pointing upwards.",
+        "applicationUpdated": "Update the PreMiD application. To do so, right-click the PreMiD icon in the taskbar and click 'Check for updates'. If you don't see the icon, click the arrow pointing upwards.",
         "presenceMainSite": "Zkuste otevřít <a href='https://premid.app' target='_blank' rel='noopener noreferrer'>naši hlavní stránku</a>. Zobrazuje pro to přítomnost?",
         "specificPresenceIssue": "Ujistěte se, že jste nainstalovali přítomnost na stránkách, pro které chcete zobrazit. Pokud přítomnost nefunguje, vysvětlete problém v kanálu #support na našem <a href='https://discord.premid.app' target='_blank' rel='noopener noreferrer'>Discord serveru</a>.",
         "whatOS": "What operating system are you using?",
