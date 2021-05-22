@@ -1,3 +1,5 @@
+commit_message: New translations for %language%
+append_commit_message: false
 files:
   - source: /strings/en.json
     translation: /strings/%osx_locale%.json
