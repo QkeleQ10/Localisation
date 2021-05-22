@@ -58,7 +58,7 @@
         "yesYellow": "হ্যাঁ, একটি হলুদ রঙের",
         "yesRed": "হ্যাঁ, একটি লাল রঙের",
         "applicationRunning": "নিশ্চিত করো যে PreMiD অ্যাপ্লিকেশানটি চলছে। যদি তাতে কাজ না হয়, তাহলে তোমার ব্রাউজার রিস্টার্ট করার চেষ্টা করো। এটাও নিশ্চিত করো যে তুমি Discord এডমিনিস্ট্রেটরে রান করনি। <br>যদি এই ধাপগুলো কাজ না করে, তাহলে PreMiD পুনরায় ইন্সটল করো <a href='https://premid.app/downloads' target='_blank' rel='noopener noreferrer'>এখানে</a>।",
-        "applicationUpdated": "Update the PreMiD application. To do so, right-click the PreMiD icon in the taskbar and click 'Check for updates'. If you don't see the icon, click the arrow pointing upwards.",
+        "applicationUpdated": "PreMiD অ্যাপ্লিকেশনটি আপডেট করো। করার জন্য মাউসের ডান পাশের বাটনটি ক্লিক করো টাস্কবারে এবং ক্লিক করো 'Check for updates'. যদি তুমি আইকনটি দেখতে না পাও, উপরের দিকে পয়েন্ট করা তীর চিন্হটিতে ক্লিক করো।",
         "presenceMainSite": "<a href='https://premid.app' target='_blank' rel='noopener noreferrer'>আমাদের মেইন ওয়েবসাইট</a> ওপেন করার চেষ্টা করো। এটা কি ওটার জন্য একটি Presence দেখায়?",
         "specificPresenceIssue": "নিশ্চিত করো তুমি সেই Presence - টি ইন্সটল করেছ যেই ওয়েবসাইটকে তুমি দেখাতে চাও। যদি একটি Presence কাজ না করে, সমস্যাটি ব্যাখ্যা করো আমাদের <a href='https://discord.premid.app' target='_blank' rel='noopener noreferrer'>Discord সার্ভারের</a> #support চ্যানেলে।",
         "whatOS": "কোন অপারেটিং সিস্টেম (OS) তুমি ব্যবহার করছ?",
