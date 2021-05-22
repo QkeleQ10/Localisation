@@ -58,7 +58,7 @@
         "yesYellow": "Ja, een gele",
         "yesRed": "Ja, een rode",
         "applicationRunning": "Zorg ervoor dat de PreMiD-applicatie wordt uitgevoerd. Als dit niet werkt, probeer dan je browser opnieuw te starten. Zorg er ook voor dat je Discord niet gebruikt met beheerdersrechten. <br>Als deze stappen niet werken, probeer dan PreMiD <a href='https://premid.app/downloads' target='_blank' rel='noopener noreferrer'>hier</a> opnieuw te installeren.",
-        "applicationUpdated": "Update the PreMiD application. To do so, right-click the PreMiD icon in the taskbar and click 'Check for updates'. If you don't see the icon, click the arrow pointing upwards.",
+        "applicationUpdated": "Update de PreMiD-applicatie. Rechtsklik hiervoor op het PreMiD-icoon in de taakbalk en klik op 'Check for updates'. Als je het icoon niet ziet, klik dan op de naar boven wijzende pijl.",
         "presenceMainSite": "Probeer <a href='https://premid.app' target='_blank' rel='noopener noreferrer'>onze hoofdsite</a> te openen. Komt er dan wel een presence tevoorschijn?",
         "specificPresenceIssue": "Zorg ervoor dat je de presence hebt geïnstalleerd voor de site waarvoor je hem wilt weergeven. Als een presence niet werkt, leg dan het probleem uit in het #support-kanaal in onze <a href='https://discord.premid.app' target='_blank' rel='noopener noreferrer'>Discord-server</a>.",
         "whatOS": "Welk besturingssysteem (OS) gebruik je?",
