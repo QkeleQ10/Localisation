@@ -58,7 +58,7 @@
         "yesYellow": "Sim, um amarelo",
         "yesRed": "Sim, um vermelho",
         "applicationRunning": "Certifica-te de que a aplicação do PreMiD está aberta. Se isto não funcionar, experimenta reiniciar o teu navegador. Certifica-te, também, de que não abriste o Discord como administrador. <br>Se estes passos não funcionarem, experimenta reinstalar o PreMiD <a href='https://premid.app/downloads' target='_blank' rel='noopener noreferrer'>aqui</a>.",
-        "applicationUpdated": "Update the PreMiD application. Right-click the PreMiD icon in the taskbar and click 'Check for updates'. If you don't see the icon, click the arrow pointing upwards.",
+        "applicationUpdated": "Update the PreMiD application. To do so, right-click the PreMiD icon in the taskbar and click 'Check for updates'. If you don't see the icon, click the arrow pointing upwards.",
         "presenceMainSite": "Experimenta abrir o <a href='https://premid.app' target='_blank' rel='noopener noreferrer'>nosso site</a>. Vês a nossa presence?",
         "specificPresenceIssue": "Certifica-te de que instalaste a presence para o site que queres mostrar. Se uma presence não funciona, explica o problema no canal #support no nosso <a href='https://discord.premid.app' target='_blank' rel='noopener noreferrer'>servidor de Discord</a>.",
         "whatOS": "Que sistema operativo é que estás a usar?",
