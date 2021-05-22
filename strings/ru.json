@@ -58,7 +58,7 @@
         "yesYellow": "Да, он жёлтый",
         "yesRed": "Да, он красный",
         "applicationRunning": "Убедитесь, что приложение PreMiD запущено. Если он не работает, попробуйте перезагрузить ваш браузер. Также убедитесь, что вы не запускали Discord с правами администратора. <br>Если эти шаги не помогли, попробуйте переустановить PreMiD <a href='https://premid.app/downloads' target='_blank' rel='noopener noreferrer'>отсюда</a>.",
-        "applicationUpdated": "Обновите приложение PreMiD. Щелкните правой кнопкой мыши на иконку PreMiD на панели задач и выберите «Проверить наличие обновлений». Если вы не видите иконку, нажмите на стрелку, указывающую вверх.",
+        "applicationUpdated": "Update the PreMiD application. To do so, right-click the PreMiD icon in the taskbar and click 'Check for updates'. If you don't see the icon, click the arrow pointing upwards.",
         "presenceMainSite": "Попробуйте открыть <a href='https://premid.app' target='_blank' rel='noopener noreferrer'>наш основной сайт</a>. Отображает ли он присутствие для этого?",
         "specificPresenceIssue": "Убедитесь, что вы установили присутствие для сайта, для которого хотите его отобразить. Если присутствие не работает, пожалуйста, объясните проблему в канале #support на нашем сайте. <a href='https://discord.premid.app' target='_blank' rel='noopener noreferrer'>Discord сервер</a>.",
         "whatOS": "Какую операционную систему (ОС) вы используете?",
