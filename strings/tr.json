@@ -58,7 +58,7 @@
         "yesYellow": "Evet, sarı olan",
         "yesRed": "Evet, kırmızı olan",
         "applicationRunning": "PreMiD uygulamasının çalıştığından emin olun. Bu işe yaramazsa, tarayıcınızı yeniden başlatmayı deneyin. Ayrıca Discord'u yönetici haklarıyla çalıştırmadığınızdan emin olun. <br>\nBu adımlar işe yaramazsa, PreMiD'yi yeniden yüklemeyi deneyin. <a href='https://premid.app/downloads' target='_blank' rel='noopener noreferrer'>İndirmek İçin Tıkla</a>.\n",
-        "applicationUpdated": "Update the PreMiD application. To do so, right-click the PreMiD icon in the taskbar and click 'Check for updates'. If you don't see the icon, click the arrow pointing upwards.",
+        "applicationUpdated": "PreMiD uygulamasını güncelleyin. Bunu yapmak için, görev çubuğundaki PreMiD simgesine sağ tıklayın ve 'Güncellemeleri kontrol et'e tıklayın. Simgeyi görmüyorsanız, yukarıyı gösteren oku tıklayın.",
         "presenceMainSite": "Açmayı dene <a href='https://premid.app' target='_blank' rel='noopener noreferrer'>ana sitemiz</a>. Bunun için bir varlık gösteriyor mu?",
         "specificPresenceIssue": "Görüntülenmesini istediğiniz sitenin varlığını kurduğunuzdan emin olun. Bir iletişim durumu işe yaramazsa, lütfen sorunu #support kanalımızda açıklayın. (İngilizce açıklarsanız daha iyi olur arkadaşlarım bunun için \"Google Translate\" kullanmanız daha iyi bir seçenek)\n <a href='https://discord.premid.app' target='_blank' rel='noopener noreferrer'>Discord Sunucusu</a>.\n",
         "whatOS": "Hangi işletim sistemini (OS) kullanıyorsunuz?",
