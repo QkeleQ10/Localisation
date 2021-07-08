@@ -86,9 +86,7 @@
         "browserUnsure": "PreMiD, tarayıcınızda (henüz) çalışmayabilir. Lütfen katılın <a href='https://discord.premid.app' target='_blank' rel='noopener noreferrer'>Discord Sunucumuz</a> ve bir destek temsilcisiyle görüşün!\n",
         "noDiagnosis": "Bu sorun giderici, sorununuzu teşhis edemedi."
     },
-    "copyTease": "Eğer isterseniz, yapabilirsiniz <a onclick='copy(%deadend%)'>bu sonucu kopyala</a> ve destek talebinde bulunurken ekleyin <a href='https://discord.premid.app' target='_blank' rel='noopener noreferrer'>Discord Sunucusu</a>.",
-    "copiedDesc": "Artık bu sonucu, #support kanalındaki mesajınızın içine yapıştırabilirsiniz. <a href='https://discord.premid.app' target='_blank' rel='noopener noreferrer'>Discord Sunucusu</a>.",
-    "Copied the result": "Sonucu kopyaladı",
+    "moreHelpTease": "If you've followed all steps in this troubleshooter and your issue persists, please check our full <a href='https://docs.premid.app/en/troubleshooting' target='_blank'>troubleshooting guide</a>.",
     "Contact and more": "İletişim ve daha fazlası",
     "Information": "Bilgi",
     "infoDesc": "Bu araç, PreMiD topluluğu için geliştirildi by QkeleQ10#8482.<br>PreMiD tarafından kabul edilir, ancak sahibi değildir veya PreMiD ile bağlantılı değildir.",

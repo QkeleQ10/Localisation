@@ -86,9 +86,7 @@
         "browserUnsure": "PreMiD może jeszcze nie działać w Twojej przeglądarce. Dołącz do naszego <a href='https://discord.premid.app' target='_blank' rel='noopener noreferrer'>serwera na Discordzie</a> i poproś o pomoc któregoś z agentów wsparcia technicznego!",
         "noDiagnosis": "Narzędzie do rozwiązywania problemów nie mógł zdiagnozować Twojego problemu."
     },
-    "copyTease": "Jeśli chcesz, możesz <a onclick='copy(%deadend%)'>skopiować wynik</a> i załączyć go wraz zapytaniem na naszym <a href='https://discord.premid.app' target='_blank' rel='noopener noreferrer'>serwerze na Discordzie</a>.",
-    "copiedDesc": "Teraz możesz wkleić wynik w wiadomości na kanale #support na naszym <a href='https://discord.premid.app' target='_blank' rel='noopener noreferrer'>serwerze na Discordzie</a>.",
-    "Copied the result": "Skopiowano wynik",
+    "moreHelpTease": "If you've followed all steps in this troubleshooter and your issue persists, please check our full <a href='https://docs.premid.app/en/troubleshooting' target='_blank'>troubleshooting guide</a>.",
     "Contact and more": "Kontakt i inne",
     "Information": "Informacje",
     "infoDesc": "To narzędzie zostało stworzone dla społeczności PreMiD przez QkeleQ10#8482. <br>Jest uznawane przez PreMiD, ale nie jest z nim powiązane.",

@@ -86,9 +86,7 @@
         "browserUnsure": "PreMiD mungkin tidak berfungsi di browser anda. Silakan bergabung dengan <a href='https://discord.premid.app' target='_blank' rel='noopener noreferrer'>Discord server</a> kami dan periksa dengan agen dukungan!",
         "noDiagnosis": "Pemecah masalah ini tidak dapat mendiagnosis masalah Anda."
     },
-    "copyTease": "Jika mau, Anda dapat <a onclick='copy(%deadend%)'> menyalin hasil ini </a> dan memasukkannya saat meminta dukungan di <a href='https://discord.premid.app' target='_blank' rel='noopener noreferrer'>Discord server</a>.",
-    "copiedDesc": "Sekarang Anda dapat menempelkan hasil ini ke dalam pesan Anda di # saluran dukungan di <a href='https://discord.premid.app' target='_blank' rel='noopener noreferrer'>Discord server</a>.",
-    "Copied the result": "Menyalin hasilnya",
+    "moreHelpTease": "If you've followed all steps in this troubleshooter and your issue persists, please check our full <a href='https://docs.premid.app/en/troubleshooting' target='_blank'>troubleshooting guide</a>.",
     "Contact and more": "Kontak dan lainnya",
     "Information": "Informasi",
     "infoDesc": "Alat ini dibuat untuk komunitas PreMiD oleh QkeleQ10#8482. <br> Itu diakui oleh tetapi tidak dimiliki oleh atau berafiliasi dengan PreMiD.",
