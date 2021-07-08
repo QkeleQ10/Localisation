@@ -86,9 +86,7 @@
         "browserUnsure": "PreMiD kanske inte fungerar i din webbläsare (ännu). Vänligen anslut till vår <a href='https://discord.premid.app' target='_blank' rel='noopener noreferrer'>Discordserver</a> och kontakta en tjänstarbetare!",
         "noDiagnosis": "Denna felsökare kunde inte diagnostisera ditt problem."
     },
-    "copyTease": "Om du vill kan du <a onclick='copy(%deadend%)'>kopiera detta resultat</a> och inkludera det när du begär om stöd i vår <a href='https://discord.premid.app' target='_blank' rel='noopener noreferrer'>Discordserver</a>.",
-    "copiedDesc": "Du kan nu klistra in detta resultat i ditt meddelande i kanalen \"#support\" i vår <a href='https://discord.premid.app' target='_blank' rel='noopener noreferrer'>Discordserver</a>.",
-    "Copied the result": "Kopierade resultatet",
+    "moreHelpTease": "If you've followed all steps in this troubleshooter and your issue persists, please check our full <a href='https://docs.premid.app/en/troubleshooting' target='_blank'>troubleshooting guide</a>.",
     "Contact and more": "Kontaktuppgifter och mer",
     "Information": "Information",
     "infoDesc": "Detta verktyg byggdes för PreMiD-gemenskapen av QkeleQ10#8482. <br>Verktyget godtas av PreMiD men ägs inte av och är inte anslutet till PreMiD.",

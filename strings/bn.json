@@ -86,9 +86,7 @@
         "browserUnsure": "PreMiD কাজ নাও করতে পারে তোমার ব্রাউজারে (এখনো)। আমাদের <a href='https://discord.premid.app' target='_blank' rel='noopener noreferrer'>Discord সার্ভারে</a> জয়েন করো এবং একজন সাপোর্ট এজেন্টকে জিজ্ঞাসা করো!",
         "noDiagnosis": "এই সমস্যা সমাধানটি তোমার সমস্যা ধরতে পারেনি।"
     },
-    "copyTease": "তুমি যদি প্রয়োজন হয়, তুমি এই <a onclick='copy(%deadend%)'>রেজাল্টটি কপি করতে পারো</a> এবং যুক্ত করতে পারো যখন সাহায্য চেতে যাবে আমাদের <a href='https://discord.premid.app' target='_blank' rel='noopener noreferrer'>Discord সার্ভারে</a>।",
-    "copiedDesc": "তুমি এই রেজাল্টটি পেস্ট করতে পারো তোমার মেসেজে #support চ্যানেলে আমাদের <a href='https://discord.premid.app' target='_blank' rel='noopener noreferrer'>Discord সার্ভারে</a>।",
-    "Copied the result": "ফলাফলটি কপি করা হয়েছে",
+    "moreHelpTease": "If you've followed all steps in this troubleshooter and your issue persists, please check our full <a href='https://docs.premid.app/en/troubleshooting' target='_blank'>troubleshooting guide</a>.",
     "Contact and more": "যোগাযোগ এবং আরো",
     "Information": "তথ্য",
     "infoDesc": "এই টুলটি তৈরি করা হয়েছিল PreMiD কমিউনিটি এর জন্য QkeleQ10#8482 দ্বারা। <br>এটি স্বীকৃত কিন্তু মালিকানাধীন বা সম্বন্ধযুক্ত নয় PreMiD দ্বারা।",
