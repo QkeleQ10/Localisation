@@ -91,5 +91,6 @@
     "Information": "Informace",
     "infoDesc": "Tento nástroj vytvořil QkeleQ10#8482 pro komunitu PreMiD. <br>Je uznáván, ale není vlastněn ani přidružen k PreMiD.",
     "PreMiD website": "Stránka PreMiD",
-    "PreMiD Discord server": "PreMiD Discord server"
+    "PreMiD Discord server": "PreMiD Discord server",
+    "changeLanguageTooltip": "Change language to {language}"
 }

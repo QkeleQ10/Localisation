@@ -91,5 +91,6 @@
     "Information": "Informasi",
     "infoDesc": "Alat ini dibuat untuk komunitas PreMiD oleh QkeleQ10#8482. <br> Itu diakui oleh tetapi tidak dimiliki oleh atau berafiliasi dengan PreMiD.",
     "PreMiD website": "Situs PreMiD",
-    "PreMiD Discord server": "PreMiD Discord server"
+    "PreMiD Discord server": "PreMiD Discord server",
+    "changeLanguageTooltip": "Change language to {language}"
 }

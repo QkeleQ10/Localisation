@@ -91,5 +91,6 @@
     "Information": "Bilgi",
     "infoDesc": "Bu araç, PreMiD topluluğu için geliştirildi by QkeleQ10#8482.<br>PreMiD tarafından kabul edilir, ancak sahibi değildir veya PreMiD ile bağlantılı değildir.",
     "PreMiD website": "PreMiD web sitesi",
-    "PreMiD Discord server": "PreMiD Discord sunucusu"
+    "PreMiD Discord server": "PreMiD Discord sunucusu",
+    "changeLanguageTooltip": "Change language to {language}"
 }

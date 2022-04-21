@@ -91,5 +91,6 @@
     "Information": "Informatie",
     "infoDesc": "Deze tool is gecreëerd voor de PreMiD-gemeenschap door QkeleQ10#8482. <br>Het is erkend door maar geen bezit of onderdeel van PreMiD.",
     "PreMiD website": "Website van PreMiD",
-    "PreMiD Discord server": "Discord-server van PreMiD"
+    "PreMiD Discord server": "Discord-server van PreMiD",
+    "changeLanguageTooltip": "Change language to {language}"
 }

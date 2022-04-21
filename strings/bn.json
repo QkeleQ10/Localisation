@@ -91,5 +91,6 @@
     "Information": "তথ্য",
     "infoDesc": "এই টুলটি তৈরি করা হয়েছিল PreMiD কমিউনিটি এর জন্য QkeleQ10#8482 দ্বারা। <br>এটি স্বীকৃত কিন্তু মালিকানাধীন বা সম্বন্ধযুক্ত নয় PreMiD দ্বারা।",
     "PreMiD website": "PreMiD ওয়েবসাইট",
-    "PreMiD Discord server": "PreMiD Discord সার্ভার"
+    "PreMiD Discord server": "PreMiD Discord সার্ভার",
+    "changeLanguageTooltip": "Change language to {language}"
 }
