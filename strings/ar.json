@@ -1,7 +1,7 @@
 {
     "Language": "اللغة",
     "Select a language": "Select a language",
-    "languageTitle": "English",
+    "languageTitle": "الانجليزية",
     "Theme": "Theme",
     "Select a theme": "Select a theme",
     "Browser preference": "Browser preference",
@@ -88,7 +88,7 @@
     },
     "moreHelpTease": "If you've followed all steps in this troubleshooter and your issue persists, please check our full <a href='https://docs.premid.app/en/troubleshooting' target='_blank'>troubleshooting guide</a>.",
     "Contact and more": "Contact and more",
-    "Information": "Information",
+    "Information": "معلومات",
     "infoDesc": "This tool was built for the PreMiD community by QkeleQ10#8482. <br>It is acknowledged by but not owned by or affiliated with PreMiD.",
     "PreMiD website": "PreMiD website",
     "PreMiD Discord server": "PreMiD Discord server",
