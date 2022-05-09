@@ -57,7 +57,7 @@
         "extensionExclamation": "Quando você abre a extensão no seu navegador, você vê um ponto de exclamação colorido?",
         "yesYellow": "Sim, um amarelo",
         "yesRed": "Sim, um vermelho",
-        "applicationRunning": "Certifica-se de que a aplicação do PreMiD está sendo executado. Se isto não funcionar, tente reiniciar o seu navegador. Certifique-se, também, de que não abriu o Discord como administrador. <br>Se estas etapas não funcionarem, experimente reinstalar o PreMiD <a href='https://premid.app/downloads' target='_blank' rel='noopener noreferrer'>aqui</a>.",
+        "applicationRunning": "Certifique-se de que a aplicação do PreMiD está sendo executada. Se isto não funcionar, tente reiniciar o seu navegador. Certifique-se, também, de que não abriu o Discord como administrador. <br>Se estas etapas não funcionarem, experimente reinstalar o PreMiD <a href='https://premid.app/downloads' target='_blank' rel='noopener noreferrer'>aqui</a>.",
         "applicationUpdated": "Atualize o aplicativo do PreMiD. Para fazer isso, clique com o botão direito no ícone do PreMiD na barra de tarefas e clique em \"Check for updates\". Se não conseguir ver o ícone, clique na seta para cima.",
         "presenceMainSite": "Tente abrir <a href='https://premid.app' target='_blank' rel='noopener noreferrer'>nosso site principal</a>. Ele mostra uma presence?",
         "specificPresenceIssue": "Tenha certeza que você instalou a presence para o site que você quer mostrar. Se uma presence não funcionar, explique o problema no canal #support no nosso <a href='https://discord.premid.app' target='_blank' rel='noopener noreferrer'>servidor de Discord</a>.",
