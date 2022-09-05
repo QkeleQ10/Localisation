@@ -54,7 +54,7 @@
         "discordModded": "Bruker du en modifisert versjon av Discord sin skrivebordsapplikasjon (som BetterDiscord)?",
         "discordGameActivity": "Har du aktivert 'Aktivitetsstatus' i Discord-innstillingene dine?",
         "enableGameActivity": "Vennligst aktiver innstillingen i Discord-innstillinger under 'Aktivitetsstatus'.",
-        "extensionExclamation": "Når du åpner utvidelsen i nettleseren din, bruker du et fargen utropstegn?",
+        "extensionExclamation": "Når du åpner utvidelsen i nettleseren din, ser du et farget utropstegn?",
         "yesYellow": "Ja, en gul en",
         "yesRed": "Ja, en rød en",
         "applicationRunning": "Sørg for at PreMiD applikasjonen kjører. Hvis den ikke fungerer, kan du prøve å starte nettleseren din på nytt. Sørg også for at du ikke har brukt Discord med administratorrettigheter. <br>Hvis disse stegene ikke fungerer, prøv å laste ned PreMiD på nnytt <a href='https://premid.app/downloads' target='_blank' rel='noopener noreferrer'>her</a>.",
@@ -62,7 +62,7 @@
         "presenceMainSite": "Prøv å åpne <a href='https://premid.app' target='_blank' rel='noopener noreferrer'>vår hovedside</a>. Viser den en tilstedeværelse for den?",
         "specificPresenceIssue": "Sørg for at du har innstallert tilstedeværelsen for nettsiden du vil at den skal vise. Hvis tilstedeværelse ikke fungerer, vennligst forklar problemet i #support kanalen i <a href='https://discord.premid.app' target='_blank' rel='noopener noreferrer'>Discord-serveren vår</a>.",
         "whatOS": "Hvilket operativsystem bruker du?",
-        "anotherLinux": "En annen Linux-basert operativsystem",
+        "anotherLinux": "Et annen Linux-basert operativsystem",
         "linuxUnsure": "PreMiD støtter de fleste Linux distribusjoner, men ikke alle. Vennligst les denne <a href='https://github.com/PreMiD/Linux/blob/master/README.md' target='_blank' rel='noopener noreferrer'>GitHub artikkelen</a>. Hvis det ikke hjelper, åpne en sak i #support kanalen i <a href='https://discord.premid.app' target='_blank' rel='noopener noreferrer'>Discord-serveren vår</a>.",
         "chromeos": "Chrome OS",
         "macosOld": "macOS 10.10 eller eldre",
@@ -81,8 +81,8 @@
         "opera": "Opera",
         "braveComplication": "Vennligst gå til brave://adblock og legg til '@@localhost' i egendefinert-boksen. Deretter start Brave på nytt.",
         "operaComplication": "Før du laster ned PreMiD utvidelsen, må du innstallere <a href='https://addons.opera.com/en/extensions/details/install-chrome-extensions' target='_blank' rel='noopener noreferrer'>denne utvidelsen</a>.",
-        "otherChromium": "En annen krom nettleser",
-        "otherNonChromium": "Em annen ikke-krom nettleser",
+        "otherChromium": "En annen Chromium nettleser",
+        "otherNonChromium": "Em annen ikke-Chromium nettleser",
         "browserUnsure": "PreMiD fungerer kanskje ikke på nettleseren din (enda). Vennligst bli med i <a href='https://discord.premid.app' target='_blank' rel='noopener noreferrer'>Discord-serveren vår</a> og sjekk med en brukerstøtteagent!",
         "noDiagnosis": "Denne feilsøkeren kunne ikke diagnostisere problemet ditt."
     },
@@ -90,7 +90,7 @@
     "Contact and more": "Kontakt og mer",
     "Information": "Informasjon",
     "infoDesc": "Dette verktøyet ble bygget for PreMiD samfunnet av QkeleQ10#8482. <br>Den er anerkjent, men ikke eid av eller knyttet til PreMiD.",
-    "PreMiD website": "PreMid nettside",
-    "PreMiD Discord server": "PreMiD Discord-server",
+    "PreMiD website": "PreMiDs nettside",
+    "PreMiD Discord server": "PreMiDs Discord-server",
     "changeLanguageTooltip": "Bytt språk til {language}"
 }
