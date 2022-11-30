@@ -1,6 +1,6 @@
 {
     "Language": "Dil",
-    "selectLanguage": "Select a language",
+    "selectLanguage": "Bir dil seçin",
     "changeLanguage": "Change site language",
     "changeLanguageTooltip": "Dili {language} olarak değiştir",
     "helpTranslate": "Help translate this site",
