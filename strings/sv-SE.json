@@ -1,6 +1,6 @@
 {
     "Language": "Språk",
-    "selectLanguage": "Select a language",
+    "selectLanguage": "Välj ett språk",
     "changeLanguage": "Change site language",
     "changeLanguageTooltip": "Byt språk till {language}",
     "helpTranslate": "Help translate this site",
