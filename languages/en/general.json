@@ -1,9 +1,0 @@
-{
-    "language": "Language",
-    "languagePrompt": "Select a language",
-    "theme": "Theme",
-    "themePrompt": "Select a theme",
-    "themeLight": "Light",
-    "themeDark": "Dark",
-    "browserAuto": "Determined by browser"
-}
