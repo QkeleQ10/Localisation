@@ -12,8 +12,8 @@
     "Translate": "Traduzir",
     "Contribute": "Contribuir",
     "Join": "Join",
-    "Install": "Install",
-    "heroTitle": "Hi, I'm Quinten.",
+    "Install": "Instalar",
+    "heroTitle": "Olá, eu sou o Quinten.",
     "aboutme": "Um estudante dos Países Baixos com uma paixão por programação, design digital e línguas. Quero melhorar o mundo criando ferramentas que todos possam usar.",
     "Localisation": "Tradução",
     "Coming soon": "Em breve",
@@ -26,9 +26,9 @@
     "premiddesc": "O PreMiD é uma ferramenta simples e configurável que te permite mostrar o que estás a fazer na internet no teu estado do Discord.",
     "hypixeldesc": "O Hypixel é o servidor de Minecraft mais popular do mundo, no qual podes jogar diversos jogos.",
     "mcdesc": "O Minecraft é um jogo de sandbox desenvolvido pela Mojang. Os jogadores podem escavar materiais, criar ferramentas e blocos e construir estruturas.",
-    "Projects": "Projects",
-    "Discord bot": "Discord bot",
-    "Browser extension": "Browser extension",
+    "Projects": "Projetos",
+    "Discord bot": "Bot do Discord",
+    "Browser extension": "Extensão para o browser",
     "mctdesc": "This bot serves the Minecraft Translators community Discord, a place that facilitates communication between members of the Minecraft translation project.",
     "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student tracking system Magister."
 }
