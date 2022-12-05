@@ -14,7 +14,7 @@
     "Join": "Bli med",
     "Install": "Installer",
     "heroTitle": "Hei, jeg er Quinten.",
-    "aboutme": "A student from the Netherlands with a passion for programming, digital design, and languages. I want to improve the world by creating tools for everyone to use.",
+    "aboutme": "En student fra Nederland med lidenskap for programmering, digital design og språk. Jeg ønsker å forbedre verdenen ved å skape verktøy alle kan bruke.",
     "Localisation": "Lokalisering",
     "Coming soon": "Kommer snart",
     "Owner": "Eier",
@@ -28,7 +28,7 @@
     "mcdesc": "Minecraft er et sandkasse-videospill utviklet av Mojang. Spillere kan utvinne materialer, håndverksverktøy og blokker, og bygge strukturer.",
     "Projects": "Prosjekter",
     "Discord bot": "Discord bot",
-    "Browser extension": "Browser extension",
-    "mctdesc": "This bot serves the Minecraft Translators community Discord, a place that facilitates communication between members of the Minecraft translation project.",
-    "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student tracking system Magister."
+    "Browser extension": "Nettleser-utvidelse",
+    "mctdesc": "Denne botten tjener Minecraft-oversettere Discord-serveren, et sted som forenkler kommunikasjon mellom medlemmer av Minecraft-oversettelsesprosjektet.",
+    "studytoolsdesc": "Denne nettleser-utvidelsen har som mål å forbedre ulike aspekter ved nederlandske undervisningsnettsider, slik som studentsporingssystemet Magister."
 }
