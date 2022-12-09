@@ -11,9 +11,9 @@
     "setThemeTooltip": "Change theme to {theme, select, light {light theme} dark {dark theme} other {system theme}}",
     "Translate": "Traduce",
     "Contribute": "Contribuye",
-    "Join": "Join",
-    "Install": "Install",
-    "heroTitle": "Hi, I'm Quinten.",
+    "Join": "Unirse",
+    "Install": "Instalar",
+    "heroTitle": "Hola, soy Quinten.",
     "aboutme": "Estudiante de los Países Bajos con pasión por la programación, diseño, y localización. Quiero mejorar el mundo creando herramientas para que las use todo el mundo.",
     "Localisation": "Localización",
     "Coming soon": "Próximamente",
@@ -26,9 +26,9 @@
     "premiddesc": "PreMiD es una simple y configurable herramienta que te permite mostrar lo que estás haciendo en la web en tu estado de Discord.",
     "hypixeldesc": "Hypixel es la red de servidores de Minecraft más popular del mundo, en la que puedes jugar una variedad de minijuegos.",
     "mcdesc": "Minecraft es un videojuego sandbox desarrollado por Mojang. Los jugadores pueden extraer materiales, crear herramientas y bloques y construir estructuras.",
-    "Projects": "Projects",
-    "Discord bot": "Discord bot",
-    "Browser extension": "Browser extension",
-    "mctdesc": "This bot serves the Minecraft Translators community Discord, a place that facilitates communication between members of the Minecraft translation project.",
-    "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student tracking system Magister."
+    "Projects": "Proyectos",
+    "Discord bot": "Bot de Discord",
+    "Browser extension": "Extensión de navegador",
+    "mctdesc": "Este bot sirve a la comunidad de Discord de Traductores de Minecraft, facilita la comunicación entre los miembros del proyecto de traducción de Minecraft.",
+    "studytoolsdesc": "Esta extensión de navegador pretende mejorar varios aspectos de los sitios web educativos Holandeses, como el sistema de seguimiento de estudiantes Magister."
 }
