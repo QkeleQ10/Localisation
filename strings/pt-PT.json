@@ -11,7 +11,7 @@
     "setThemeTooltip": "Mudar o tema para o tema {theme, select, light {claro} dark {escuro} other {do sistema}}",
     "Translate": "Traduzir",
     "Contribute": "Contribuir",
-    "Join": "Join",
+    "Join": "Entrar",
     "Install": "Instalar",
     "heroTitle": "Olá, eu sou o Quinten.",
     "aboutme": "Um estudante dos Países Baixos com uma paixão por programação, design digital e línguas. Quero melhorar o mundo criando ferramentas que todos possam usar.",
@@ -29,6 +29,6 @@
     "Projects": "Projetos",
     "Discord bot": "Bot do Discord",
     "Browser extension": "Extensão para o browser",
-    "mctdesc": "This bot serves the Minecraft Translators community Discord, a place that facilitates communication between members of the Minecraft translation project.",
-    "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student tracking system Magister."
+    "mctdesc": "Este bot serve a Comunidade de Tradutores do Minecraft no Discord, um sítio que facilita a comunicação entre membros do projeto de tradução do Minecraft.",
+    "studytoolsdesc": "Esta extensão procura melhorar vários aspetos dos sites de educação neerlandeses, tais como o sistema de rastreamento de estudantes Magister."
 }
