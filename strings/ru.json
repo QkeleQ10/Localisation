@@ -13,6 +13,7 @@
     "Contribute": "Внести вклад",
     "Join": "Присоединиться",
     "Install": "Установить",
+    "Import grades": "Import grades",
     "heroTitle": "Привет, я Квинтен.",
     "aboutme": "Студент из Нидерландов со страстью к программированию, цифровому дизайну и языкам. Я хочу улучшить мир, создавая инструменты для всех пользователей.",
     "Localisation": "Локализация",
@@ -27,10 +28,9 @@
     "hypixeldesc": "Hypixel — это самая популярная сеть серверов Minecraft в мире, на котором вы можно поиграть в различные мини-игры.",
     "mcdesc": "Minecraft — это видеоигра песочница, разработанная Mojang. Игроки могут добывать материалы, создавать инструменты и блоки, а также возводить постройки.",
     "Projects": "Проекты",
+    "ghdesc": "Найдите больше проектов, связанных с программированием, за которые я брался, в моем профиле GitHub. Там также можно найти мои вклады в проекты других пользователей и любые заархивированные базы кода.",
     "Discord bot": "Discord бот",
     "Browser extension": "Расширение для браузера",
-    "mctdesc": "Этот бот обслуживает Discord сообщество переводчиков Minecraft: место, которое облегчает общение между участниками проекта перевода Minecraft.",
-    "studytoolsdesc": "Это расширение для браузера направлено на улучшение различных аспектов голландских образовательных веб-сайтов, таких как студенческая информационная система Magister.",
-    "Former proofreader": "Бывший корректор",
-    "ghdesc": "Найдите больше проектов, связанных с программированием, за которые я брался, в моем профиле GitHub. Там также можно найти мои вклады в проекты других пользователей и любые заархивированные базы кода."
+    "mctdesc": "This bot serves the Minecraft Translators community Discord, a place that facilitates communication between members of the Minecraft translation project.",
+    "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student tracking system Magister."
 }
