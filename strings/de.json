@@ -13,6 +13,7 @@
     "Contribute": "Beitragen",
     "Join": "Beitreten",
     "Install": "Installieren",
+    "Import grades": "Import grades",
     "heroTitle": "Hey, ich bin Quinten.",
     "aboutme": "Ein Student aus den Niederlanden mit der Leidenschaft für Programmierung, digitales Design und Sprachen. Ich möchte die Welt verbessern, indem ich Werkzeuge für alle erschaffe, die jeder nutzen kann.",
     "Localisation": "Lokalisierung",
@@ -27,10 +28,9 @@
     "hypixeldesc": "Hypixel ist das populärste Minecraft-Server-Netzwerk der Welt, auf dem du eine Vielzahl von Minispielen spielen kannst.",
     "mcdesc": "Minecraft ist ein Sandbox-Videospiel, das von Mojang entwickelt wurde. Spieler können Materialien abbauen, Werkzeuge und Blöcke herstellen, sowie Strukturen bauen.",
     "Projects": "Projekte",
+    "ghdesc": "Weitere programmierbezogene Projekte, die ich durchgeführt habe, findest du auf meinem GitHub-Profil. Dort sind auch meine Beiträge zu Projekten anderer und alle archivierten Codebases zu finden.",
     "Discord bot": "Discord-Bot",
     "Browser extension": "Browsererweiterung",
-    "mctdesc": "Dieser Bot dient dem Minecraft Translators Community-Discord, einem Ort, der die Kommunikation zwischen den Mitgliedern des Minecraft Übersetzungsprojekts erleichtert.",
-    "studytoolsdesc": "Diese Browsererweiterung zielt darauf ab, verschiedene Aspekte niederländischer Bildungswebsites zu verbessern, wie z. B. das Studenteninformationssystem Magister.",
-    "Former proofreader": "Ehemaliger Korrekturleser",
-    "ghdesc": "Weitere programmierbezogene Projekte, die ich durchgeführt habe, findest du auf meinem GitHub-Profil. Dort sind auch meine Beiträge zu Projekten anderer und alle archivierten Codebases zu finden."
+    "mctdesc": "This bot serves the Minecraft Translators community Discord, a place that facilitates communication between members of the Minecraft translation project.",
+    "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student tracking system Magister."
 }
