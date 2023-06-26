@@ -13,6 +13,7 @@
     "Contribute": "Kontribui",
     "Join": "Aliĝi",
     "Install": "Instali",
+    "Import grades": "Import grades",
     "heroTitle": "Saluton, mi estas Quinten.",
     "aboutme": "Studento el Nederlando kun pasio por programado, projektado kaj lingvoj. Mi volas plibonigi la mondon kreante ilojn, kiujn ĉiu povas uzi.",
     "Localisation": "Lokaligo",
@@ -27,10 +28,9 @@
     "hypixeldesc": "Hypixel estas la plej populara Minecraft-servilreto en la mondo, je kiu oni povas ludi ampleksan varion de miniludoj.",
     "mcdesc": "Minecraft estas sandbox-a videoludo evoluigita de Mojang. Ludantoj povas mini materialojn, kaj konstrui ilojn, blokojn kaj strukturojn.",
     "Projects": "Projektoj",
+    "ghdesc": "Find more programming-related projects I have undertook on my GitHub profile. This is also where my contributions to projects by others, and any archived codebases can be found.",
     "Discord bot": "Discord-roboto",
     "Browser extension": "Retumilo-kromaĵo",
-    "mctdesc": "Ĉi tiu roboto servas al la komunuma Discord de Minecraft Translators, loko kiu faciligas komunikadon inter membroj de la tradukprojekto de Minecraft.",
-    "studytoolsdesc": "Ĉi tiu retumila kromaĵo celas plibonigi diversajn aspektojn de nederlandaj edukaj retejoj, kiel la studenta spursistemo, Magister.",
-    "Former proofreader": "Former proofreader",
-    "ghdesc": "Find more programming-related projects I have undertook on my GitHub profile. This is also where my contributions to projects by others, and any archived codebases can be found."
+    "mctdesc": "This bot serves the Minecraft Translators community Discord, a place that facilitates communication between members of the Minecraft translation project.",
+    "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student tracking system Magister."
 }
