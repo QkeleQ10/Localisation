@@ -13,6 +13,7 @@
     "Contribute": "Bidra",
     "Join": "Gå med",
     "Install": "Installera",
+    "Import grades": "Import grades",
     "heroTitle": "Hej, jag är Quinten.",
     "aboutme": "En student från Nederländerna med passion för programmering, digital design och språk. Jag vill förbättra världen genom att skapa verktyg som alla att använda.",
     "Localisation": "Lokalisering",
@@ -27,10 +28,9 @@
     "hypixeldesc": "Hypixel är världens mest populära servernätverk för Minecraft där du kan spela en mängd olika minispel.",
     "mcdesc": "Minecraft är ett sandlådespel som utvecklats av Mojang Studios. Spelare kan bryta material, tillverka verktyg och block samt bygga strukturer.",
     "Projects": "Projekt",
+    "ghdesc": "Du hittar fler programmeringsrelaterade projekt som jag har startat på min GitHub-profil. Här finns också mina bidrag till andras projekt och eventuella arkiverade kodbaser.",
     "Discord bot": "Discord-bot",
     "Browser extension": "Webbläsartillägg",
-    "mctdesc": "Denna bot används i Minecraft Translators Community Discord, en plats som möjliggör kommunikation mellan medlemmar i Minecrafts översättningsprojektet.",
-    "studytoolsdesc": "Detta webbläsartillägg har som mål att förbättra olika aspekter av nederländska utbildningswebbplatser, t.ex. studentinformationssystemet Magister.",
-    "Former proofreader": "Tidigare korrekturläsare",
-    "ghdesc": "Du hittar fler programmeringsrelaterade projekt som jag har startat på min GitHub-profil. Här finns också mina bidrag till andras projekt och eventuella arkiverade kodbaser."
+    "mctdesc": "This bot serves the Minecraft Translators community Discord, a place that facilitates communication between members of the Minecraft translation project.",
+    "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student tracking system Magister."
 }
