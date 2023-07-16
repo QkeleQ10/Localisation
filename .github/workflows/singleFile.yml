@@ -27,7 +27,7 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "quinten@althues.nl"
+          git config --local user.name "QkeleQ10"
           git add strings.json
           git commit -m "Update strings.json" || echo "No changes to commit"
