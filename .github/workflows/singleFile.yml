@@ -10,11 +10,7 @@ jobs:
   update-strings:
     runs-on: ubuntu-latest
 
-    steps:
-      - name: Pull origin
-        run: |
-          git pull
-    
+    steps:    
       - name: Checkout code
         uses: actions/checkout@v2
 
@@ -30,5 +26,6 @@ jobs:
         run: |
           git config --local user.email "quinten@althues.nl"
           git config --local user.name "QkeleQ10"
+          git pull
           git add strings.json
           git commit -m "Update strings.json" || echo "No changes to commit"
