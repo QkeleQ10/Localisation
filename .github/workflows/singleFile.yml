@@ -11,6 +11,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Pull origin
+        run: |
+          git pull
+    
       - name: Checkout code
         uses: actions/checkout@v2
 
@@ -18,9 +22,6 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: '14'
-
-      - name: Install dependencies
-        run: npm install
 
       - name: Generate strings.json
         run: node generate-strings.js
