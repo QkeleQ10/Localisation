@@ -13,7 +13,16 @@ function readLanguageFile(filePath) {
     const content = fs.readFileSync(filePath, 'utf8');
     const langCode = path.basename(filePath, '.json');
     const langStrings = JSON.parse(content);
-    strings[langCode] = { message: langStrings, meta: languageMeta.find(e => e.data.languageId === langCode) || {} };
+    strings[langCode] = {
+        message: langStrings,
+        meta: languageMeta.find(e => e.data.languageId === langCode) || {
+            data: {
+                languageId: "en",
+                translationProgress: 100,
+                approvalProgress: 100
+            }
+        }
+    };
 }
 
 function generateStringsJSON() {
