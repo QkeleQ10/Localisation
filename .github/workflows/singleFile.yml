@@ -22,11 +22,18 @@ jobs:
       - name: Generate strings.json
         run: node generate-strings.js
 
-      - name: Commit changes
+      - name: Config GitHub
         run: |
           git config --local user.email "quinten@althues.nl"
           git config --local user.name "QkeleQ10"
-          git checkout updates
+
+      - name: Checkout
+        uses: actions/checkout@v3.5.3
+        with:
+          ref: updates
+
+      - name: Commit changes
+        run: |
           git pull
           git add strings.json
           git commit -m "Update strings.json" || echo "No changes to commit"
