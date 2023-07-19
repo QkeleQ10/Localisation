@@ -1,11 +1,10 @@
 {
-    "languageName": "Engelsk",
+    "languageName": "Norsk",
     "Language": "Språk",
     "selectLanguage": "Velg et språk",
     "changeLanguage": "Endre nettsidespråk",
-    "changeLanguageTooltip": "Bytt språk til {language}",
     "helpTranslate": "Hjelp med å oversette denne nettsiden",
-    "helpTranslateLanguage": "Help translate this site to {language} ({progress} translated)",
+    "translationProgress": "{percentage} complete",
     "themeSwitcherAria": "Theme switcher",
     "auto": "Systemtema",
     "light": "Lyst tema",
