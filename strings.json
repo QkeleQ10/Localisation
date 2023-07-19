@@ -39,6 +39,25 @@
       "Browser extension": "Browser extension",
       "mctdesc": "This bot serves the Minecraft Translators Community Discord, a place that facilitates communication between members of the Minecraft translation project.",
       "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student information system Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "af",
+        "words": {
+          "total": 278,
+          "translated": 39,
+          "preTranslateAppliedTo": 0,
+          "approved": 0
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 2,
+          "preTranslateAppliedTo": 0,
+          "approved": 0
+        },
+        "translationProgress": 14,
+        "approvalProgress": 0
+      }
     }
   },
   "ar": {
@@ -81,6 +100,25 @@
       "Browser extension": "Browser extension",
       "mctdesc": "This bot serves the Minecraft Translators Community Discord, a place that facilitates communication between members of the Minecraft translation project.",
       "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student information system Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "ar",
+        "words": {
+          "total": 278,
+          "translated": 41,
+          "preTranslateAppliedTo": 1,
+          "approved": 2
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 4,
+          "preTranslateAppliedTo": 1,
+          "approved": 2
+        },
+        "translationProgress": 14,
+        "approvalProgress": 0
+      }
     }
   },
   "bg": {
@@ -123,6 +161,25 @@
       "Browser extension": "Browser extension",
       "mctdesc": "This bot serves the Minecraft Translators Community Discord, a place that facilitates communication between members of the Minecraft translation project.",
       "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student information system Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "bg",
+        "words": {
+          "total": 278,
+          "translated": 42,
+          "preTranslateAppliedTo": 2,
+          "approved": 3
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 5,
+          "preTranslateAppliedTo": 2,
+          "approved": 3
+        },
+        "translationProgress": 15,
+        "approvalProgress": 1
+      }
     }
   },
   "bn": {
@@ -165,6 +222,25 @@
       "Browser extension": "ব্রাউজার এক্সটেনশন",
       "mctdesc": "এই বট মাইনক্রাফট অনুবাদক কমিউনিটি এর ডিস্কর্ড সার্ভারে কাজ করে, একটি জায়গা যেখানে মাইনক্রাফট অনুবাদ প্রজেক্টের সদস্যদের মধ্যে যোগাযোগ সহজতর করা হয়।",
       "studytoolsdesc": "এই ব্রাউজার এক্সটেনশনটি ডাচ শিক্ষা ওয়েবসাইটগুলির বিভিন্ন জিনিস উন্নত করতে কাজ করে, যেমন শিক্ষার্থী তথ্য সিস্টেম Magister।"
+    },
+    "meta": {
+      "data": {
+        "languageId": "bn",
+        "words": {
+          "total": 278,
+          "translated": 227,
+          "preTranslateAppliedTo": 67,
+          "approved": 188
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 28,
+          "preTranslateAppliedTo": 5,
+          "approved": 26
+        },
+        "translationProgress": 81,
+        "approvalProgress": 67
+      }
     }
   },
   "ca": {
@@ -207,6 +283,25 @@
       "Browser extension": "Browser extension",
       "mctdesc": "This bot serves the Minecraft Translators Community Discord, a place that facilitates communication between members of the Minecraft translation project.",
       "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student information system Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "ca",
+        "words": {
+          "total": 278,
+          "translated": 46,
+          "preTranslateAppliedTo": 1,
+          "approved": 7
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 8,
+          "preTranslateAppliedTo": 1,
+          "approved": 6
+        },
+        "translationProgress": 16,
+        "approvalProgress": 2
+      }
     }
   },
   "cs": {
@@ -249,6 +344,25 @@
       "Browser extension": "Browser extension",
       "mctdesc": "This bot serves the Minecraft Translators Community Discord, a place that facilitates communication between members of the Minecraft translation project.",
       "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student information system Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "cs",
+        "words": {
+          "total": 278,
+          "translated": 119,
+          "preTranslateAppliedTo": 9,
+          "approved": 80
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 16,
+          "preTranslateAppliedTo": 5,
+          "approved": 14
+        },
+        "translationProgress": 42,
+        "approvalProgress": 28
+      }
     }
   },
   "da": {
@@ -291,6 +405,25 @@
       "Browser extension": "Browser extension",
       "mctdesc": "This bot serves the Minecraft Translators Community Discord, a place that facilitates communication between members of the Minecraft translation project.",
       "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student information system Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "da",
+        "words": {
+          "total": 278,
+          "translated": 115,
+          "preTranslateAppliedTo": 5,
+          "approved": 6
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 14,
+          "preTranslateAppliedTo": 3,
+          "approved": 4
+        },
+        "translationProgress": 41,
+        "approvalProgress": 2
+      }
     }
   },
   "de": {
@@ -333,6 +466,25 @@
       "Browser extension": "Browsererweiterung",
       "mctdesc": "Dieser Bot dient dem Minecraft Translators Community-Discord, einem Ort, der die Kommunikation zwischen den Mitgliedern des Minecraft Übersetzungsprojekts erleichtert.",
       "studytoolsdesc": "Diese Browsererweiterung zielt darauf ab, verschiedene Aspekte niederländischer Bildungswebsites zu verbessern, wie z. B. das Studenteninformationssystem Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "de",
+        "words": {
+          "total": 278,
+          "translated": 228,
+          "preTranslateAppliedTo": 9,
+          "approved": 80
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 29,
+          "preTranslateAppliedTo": 5,
+          "approved": 14
+        },
+        "translationProgress": 82,
+        "approvalProgress": 28
+      }
     }
   },
   "el": {
@@ -375,6 +527,25 @@
       "Browser extension": "Browser extension",
       "mctdesc": "This bot serves the Minecraft Translators Community Discord, a place that facilitates communication between members of the Minecraft translation project.",
       "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student information system Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "el",
+        "words": {
+          "total": 278,
+          "translated": 114,
+          "preTranslateAppliedTo": 4,
+          "approved": 75
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 13,
+          "preTranslateAppliedTo": 2,
+          "approved": 11
+        },
+        "translationProgress": 41,
+        "approvalProgress": 26
+      }
     }
   },
   "en": {
@@ -417,7 +588,8 @@
       "Browser extension": "Browser extension",
       "mctdesc": "This bot serves the Minecraft Translators community Discord, a place that facilitates communication between members of the Minecraft translation project.",
       "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student tracking system Magister."
-    }
+    },
+    "meta": {}
   },
   "eo": {
     "message": {
@@ -459,6 +631,25 @@
       "Browser extension": "Retumilo-kromaĵo",
       "mctdesc": "Ĉi tiu roboto servas al la komunuma Discord de Minecraft Translators, loko kiu faciligas komunikadon inter membroj de la tradukprojekto de Minecraft.",
       "studytoolsdesc": "Ĉi tiu retumila kromaĵo celas plibonigi diversajn aspektojn de nederlandaj edukaj retejoj, kiel la studenta spursistemo, Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "eo",
+        "words": {
+          "total": 278,
+          "translated": 199,
+          "preTranslateAppliedTo": 43,
+          "approved": 43
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 27,
+          "preTranslateAppliedTo": 4,
+          "approved": 4
+        },
+        "translationProgress": 71,
+        "approvalProgress": 15
+      }
     }
   },
   "es-ES": {
@@ -501,6 +692,25 @@
       "Browser extension": "Extensión de navegador",
       "mctdesc": "Este bot sirve a la comunidad de Discord de Traductores de Minecraft, facilita la comunicación entre los miembros del proyecto de traducción de Minecraft.",
       "studytoolsdesc": "Esta extensión de navegador pretende mejorar varios aspectos de los sitios web educativos Holandeses, como el sistema de seguimiento de estudiantes Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "es-ES",
+        "words": {
+          "total": 278,
+          "translated": 228,
+          "preTranslateAppliedTo": 48,
+          "approved": 228
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 29,
+          "preTranslateAppliedTo": 7,
+          "approved": 29
+        },
+        "translationProgress": 82,
+        "approvalProgress": 82
+      }
     }
   },
   "es-MX": {
@@ -543,6 +753,25 @@
       "Browser extension": "Extensión de navegador",
       "mctdesc": "Este bot sirve a la comunidad de Discord de Traductores de Minecraft, facilita la comunicación entre los miembros del proyecto de traducción de Minecraft.",
       "studytoolsdesc": "Esta extensión de navegador pretende mejorar varios aspectos de los sitios web educativos Holandeses, como el sistema de seguimiento de estudiantes Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "es-MX",
+        "words": {
+          "total": 278,
+          "translated": 75,
+          "preTranslateAppliedTo": 4,
+          "approved": 5
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 11,
+          "preTranslateAppliedTo": 2,
+          "approved": 3
+        },
+        "translationProgress": 26,
+        "approvalProgress": 1
+      }
     }
   },
   "fi": {
@@ -585,6 +814,25 @@
       "Browser extension": "Browser extension",
       "mctdesc": "This bot serves the Minecraft Translators Community Discord, a place that facilitates communication between members of the Minecraft translation project.",
       "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student information system Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "fi",
+        "words": {
+          "total": 278,
+          "translated": 92,
+          "preTranslateAppliedTo": 4,
+          "approved": 53
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 13,
+          "preTranslateAppliedTo": 2,
+          "approved": 11
+        },
+        "translationProgress": 33,
+        "approvalProgress": 19
+      }
     }
   },
   "fr": {
@@ -627,6 +875,25 @@
       "Browser extension": "Extension navigateur",
       "mctdesc": "Ce bot sert la communauté de traducteurs de Minecraft Discord, un endroit qui facilite la communication entre les membres du projet de traduction Minecraft.",
       "studytoolsdesc": "Cette extension de navigateur vise à améliorer divers aspects des sites Web éducatifs néerlandais, tels que le système d'information étudiant Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "fr",
+        "words": {
+          "total": 278,
+          "translated": 230,
+          "preTranslateAppliedTo": 8,
+          "approved": 189
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 30,
+          "preTranslateAppliedTo": 4,
+          "approved": 27
+        },
+        "translationProgress": 82,
+        "approvalProgress": 67
+      }
     }
   },
   "gd": {
@@ -669,6 +936,25 @@
       "Browser extension": "Browser extension",
       "mctdesc": "This bot serves the Minecraft Translators Community Discord, a place that facilitates communication between members of the Minecraft translation project.",
       "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student information system Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "gd",
+        "words": {
+          "total": 278,
+          "translated": 46,
+          "preTranslateAppliedTo": 4,
+          "approved": 4
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 6,
+          "preTranslateAppliedTo": 2,
+          "approved": 2
+        },
+        "translationProgress": 16,
+        "approvalProgress": 1
+      }
     }
   },
   "he": {
@@ -711,6 +997,25 @@
       "Browser extension": "Browser extension",
       "mctdesc": "This bot serves the Minecraft Translators Community Discord, a place that facilitates communication between members of the Minecraft translation project.",
       "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student information system Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "he",
+        "words": {
+          "total": 278,
+          "translated": 41,
+          "preTranslateAppliedTo": 1,
+          "approved": 2
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 4,
+          "preTranslateAppliedTo": 1,
+          "approved": 2
+        },
+        "translationProgress": 14,
+        "approvalProgress": 0
+      }
     }
   },
   "hu": {
@@ -753,6 +1058,25 @@
       "Browser extension": "Browser extension",
       "mctdesc": "This bot serves the Minecraft Translators Community Discord, a place that facilitates communication between members of the Minecraft translation project.",
       "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student information system Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "hu",
+        "words": {
+          "total": 278,
+          "translated": 50,
+          "preTranslateAppliedTo": 5,
+          "approved": 11
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 10,
+          "preTranslateAppliedTo": 3,
+          "approved": 8
+        },
+        "translationProgress": 17,
+        "approvalProgress": 3
+      }
     }
   },
   "id": {
@@ -795,6 +1119,25 @@
       "Browser extension": "Browser extension",
       "mctdesc": "This bot serves the Minecraft Translators Community Discord, a place that facilitates communication between members of the Minecraft translation project.",
       "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student information system Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "id",
+        "words": {
+          "total": 278,
+          "translated": 119,
+          "preTranslateAppliedTo": 9,
+          "approved": 80
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 16,
+          "preTranslateAppliedTo": 5,
+          "approved": 14
+        },
+        "translationProgress": 42,
+        "approvalProgress": 28
+      }
     }
   },
   "it": {
@@ -837,6 +1180,25 @@
       "Browser extension": "Browser extension",
       "mctdesc": "This bot serves the Minecraft Translators Community Discord, a place that facilitates communication between members of the Minecraft translation project.",
       "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student information system Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "it",
+        "words": {
+          "total": 278,
+          "translated": 46,
+          "preTranslateAppliedTo": 6,
+          "approved": 7
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 7,
+          "preTranslateAppliedTo": 4,
+          "approved": 5
+        },
+        "translationProgress": 16,
+        "approvalProgress": 2
+      }
     }
   },
   "ja": {
@@ -879,6 +1241,25 @@
       "Browser extension": "Browser extension",
       "mctdesc": "This bot serves the Minecraft Translators Community Discord, a place that facilitates communication between members of the Minecraft translation project.",
       "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student information system Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "ja",
+        "words": {
+          "total": 278,
+          "translated": 69,
+          "preTranslateAppliedTo": 6,
+          "approved": 7
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 8,
+          "preTranslateAppliedTo": 4,
+          "approved": 5
+        },
+        "translationProgress": 24,
+        "approvalProgress": 2
+      }
     }
   },
   "ko": {
@@ -921,6 +1302,25 @@
       "Browser extension": "Browser extension",
       "mctdesc": "This bot serves the Minecraft Translators Community Discord, a place that facilitates communication between members of the Minecraft translation project.",
       "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student information system Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "ko",
+        "words": {
+          "total": 278,
+          "translated": 41,
+          "preTranslateAppliedTo": 1,
+          "approved": 2
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 4,
+          "preTranslateAppliedTo": 1,
+          "approved": 2
+        },
+        "translationProgress": 14,
+        "approvalProgress": 0
+      }
     }
   },
   "ms": {
@@ -963,6 +1363,25 @@
       "Browser extension": "Browser extension",
       "mctdesc": "This bot serves the Minecraft Translators Community Discord, a place that facilitates communication between members of the Minecraft translation project.",
       "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student information system Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "ms",
+        "words": {
+          "total": 278,
+          "translated": 52,
+          "preTranslateAppliedTo": 5,
+          "approved": 6
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 11,
+          "preTranslateAppliedTo": 3,
+          "approved": 4
+        },
+        "translationProgress": 18,
+        "approvalProgress": 2
+      }
     }
   },
   "nl": {
@@ -1005,6 +1424,25 @@
       "Browser extension": "Browseruitbreiding",
       "mctdesc": "Deze bot dient de Minecraft Translators Community Discord, een plaats die communicatie tussen leden van het Minecraft-vertaalproject vergemakkelijkt.",
       "studytoolsdesc": "Deze browserextensie heeft tot doel verschillende aspecten van Nederlandse educatieve websites te verbeteren, zoals het leerlingvolgsysteem Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "nl",
+        "words": {
+          "total": 278,
+          "translated": 278,
+          "preTranslateAppliedTo": 5,
+          "approved": 278
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 38,
+          "preTranslateAppliedTo": 3,
+          "approved": 38
+        },
+        "translationProgress": 100,
+        "approvalProgress": 100
+      }
     }
   },
   "no": {
@@ -1047,6 +1485,25 @@
       "Browser extension": "Nettleser-utvidelse",
       "mctdesc": "Denne botten tjener Minecraft-oversettere Discord-serveren, et sted som forenkler kommunikasjon mellom medlemmer av Minecraft-oversettelsesprosjektet.",
       "studytoolsdesc": "Denne nettleser-utvidelsen har som mål å forbedre ulike aspekter ved nederlandske undervisningsnettsider, slik som studentsporingssystemet Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "no",
+        "words": {
+          "total": 278,
+          "translated": 227,
+          "preTranslateAppliedTo": 43,
+          "approved": 44
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 28,
+          "preTranslateAppliedTo": 4,
+          "approved": 5
+        },
+        "translationProgress": 81,
+        "approvalProgress": 15
+      }
     }
   },
   "pl": {
@@ -1089,6 +1546,25 @@
       "Browser extension": "Rozszerzenie przeglądarki",
       "mctdesc": "Ten bot służy społeczności tłumaczy Minecrafta na Discordzie — serwerowi ułatwiającemu komunikację pomiędzy członkami projektu tłumaczenia gry.",
       "studytoolsdesc": "To rozszerzenie przeglądarki ma na celu poprawę pod różnymi względami holenderskich stron edukacyjnych, takich jak system śledzenia uczniów Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "pl",
+        "words": {
+          "total": 278,
+          "translated": 278,
+          "preTranslateAppliedTo": 47,
+          "approved": 278
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 38,
+          "preTranslateAppliedTo": 6,
+          "approved": 38
+        },
+        "translationProgress": 100,
+        "approvalProgress": 100
+      }
     }
   },
   "pt-BR": {
@@ -1131,6 +1607,25 @@
       "Browser extension": "Browser extension",
       "mctdesc": "This bot serves the Minecraft Translators Community Discord, a place that facilitates communication between members of the Minecraft translation project.",
       "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student information system Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "pt-BR",
+        "words": {
+          "total": 278,
+          "translated": 119,
+          "preTranslateAppliedTo": 5,
+          "approved": 80
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 15,
+          "preTranslateAppliedTo": 3,
+          "approved": 13
+        },
+        "translationProgress": 42,
+        "approvalProgress": 28
+      }
     }
   },
   "pt-PT": {
@@ -1173,6 +1668,25 @@
       "Browser extension": "Extensão para o browser",
       "mctdesc": "Este bot serve a Comunidade de Tradutores do Minecraft no Discord, um sítio que facilita a comunicação entre membros do projeto de tradução do Minecraft.",
       "studytoolsdesc": "Esta extensão procura melhorar vários aspetos dos sites de educação neerlandeses, tais como a plataforma para estudantes, Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "pt-PT",
+        "words": {
+          "total": 278,
+          "translated": 230,
+          "preTranslateAppliedTo": 47,
+          "approved": 230
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 30,
+          "preTranslateAppliedTo": 6,
+          "approved": 30
+        },
+        "translationProgress": 82,
+        "approvalProgress": 82
+      }
     }
   },
   "ro": {
@@ -1215,6 +1729,25 @@
       "Browser extension": "Browser extension",
       "mctdesc": "This bot serves the Minecraft Translators Community Discord, a place that facilitates communication between members of the Minecraft translation project.",
       "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student information system Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "ro",
+        "words": {
+          "total": 278,
+          "translated": 41,
+          "preTranslateAppliedTo": 2,
+          "approved": 2
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 4,
+          "preTranslateAppliedTo": 2,
+          "approved": 2
+        },
+        "translationProgress": 14,
+        "approvalProgress": 0
+      }
     }
   },
   "ru": {
@@ -1257,6 +1790,25 @@
       "Browser extension": "Расширение для браузера",
       "mctdesc": "Этот бот обслуживает Discord сообщество переводчиков Minecraft: место, которое облегчает общение между участниками проекта перевода Minecraft.",
       "studytoolsdesc": "Это расширение для браузера направлено на улучшение различных аспектов голландских образовательных веб-сайтов, таких как студенческая информационная система Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "ru",
+        "words": {
+          "total": 278,
+          "translated": 278,
+          "preTranslateAppliedTo": 8,
+          "approved": 245
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 38,
+          "preTranslateAppliedTo": 4,
+          "approved": 32
+        },
+        "translationProgress": 100,
+        "approvalProgress": 88
+      }
     }
   },
   "sr": {
@@ -1299,6 +1851,25 @@
       "Browser extension": "Browser extension",
       "mctdesc": "This bot serves the Minecraft Translators Community Discord, a place that facilitates communication between members of the Minecraft translation project.",
       "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student information system Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "sr",
+        "words": {
+          "total": 278,
+          "translated": 39,
+          "preTranslateAppliedTo": 0,
+          "approved": 0
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 2,
+          "preTranslateAppliedTo": 0,
+          "approved": 0
+        },
+        "translationProgress": 14,
+        "approvalProgress": 0
+      }
     }
   },
   "sv-SE": {
@@ -1341,6 +1912,25 @@
       "Browser extension": "Webbläsartillägg",
       "mctdesc": "Denna bot används i Minecraft Translators Community Discord, en plats som möjliggör kommunikation mellan medlemmar i Minecrafts översättningsprojektet.",
       "studytoolsdesc": "Detta webbläsartillägg har som mål att förbättra olika aspekter av nederländska utbildningswebbplatser, t.ex. studentinformationssystemet Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "sv-SE",
+        "words": {
+          "total": 278,
+          "translated": 228,
+          "preTranslateAppliedTo": 5,
+          "approved": 189
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 29,
+          "preTranslateAppliedTo": 3,
+          "approved": 27
+        },
+        "translationProgress": 82,
+        "approvalProgress": 67
+      }
     }
   },
   "th": {
@@ -1383,6 +1973,25 @@
       "Browser extension": "Browser extension",
       "mctdesc": "This bot serves the Minecraft Translators Community Discord, a place that facilitates communication between members of the Minecraft translation project.",
       "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student information system Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "th",
+        "words": {
+          "total": 278,
+          "translated": 47,
+          "preTranslateAppliedTo": 4,
+          "approved": 5
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 8,
+          "preTranslateAppliedTo": 2,
+          "approved": 3
+        },
+        "translationProgress": 16,
+        "approvalProgress": 1
+      }
     }
   },
   "tr": {
@@ -1425,6 +2034,25 @@
       "Browser extension": "Tarayıcı uzantısı",
       "mctdesc": "This bot serves the Minecraft Translators Community Discord, a place that facilitates communication between members of the Minecraft translation project.",
       "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student information system Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "tr",
+        "words": {
+          "total": 278,
+          "translated": 155,
+          "preTranslateAppliedTo": 5,
+          "approved": 76
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 26,
+          "preTranslateAppliedTo": 3,
+          "approved": 12
+        },
+        "translationProgress": 55,
+        "approvalProgress": 27
+      }
     }
   },
   "uk": {
@@ -1467,6 +2095,25 @@
       "Browser extension": "Browser extension",
       "mctdesc": "This bot serves the Minecraft Translators Community Discord, a place that facilitates communication between members of the Minecraft translation project.",
       "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student information system Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "uk",
+        "words": {
+          "total": 278,
+          "translated": 56,
+          "preTranslateAppliedTo": 9,
+          "approved": 10
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 13,
+          "preTranslateAppliedTo": 5,
+          "approved": 6
+        },
+        "translationProgress": 20,
+        "approvalProgress": 3
+      }
     }
   },
   "vi": {
@@ -1509,6 +2156,25 @@
       "Browser extension": "Browser extension",
       "mctdesc": "This bot serves the Minecraft Translators Community Discord, a place that facilitates communication between members of the Minecraft translation project.",
       "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student information system Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "vi",
+        "words": {
+          "total": 278,
+          "translated": 39,
+          "preTranslateAppliedTo": 0,
+          "approved": 0
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 2,
+          "preTranslateAppliedTo": 0,
+          "approved": 0
+        },
+        "translationProgress": 14,
+        "approvalProgress": 0
+      }
     }
   },
   "zh-CN": {
@@ -1551,6 +2217,25 @@
       "Browser extension": "Browser extension",
       "mctdesc": "This bot serves the Minecraft Translators Community Discord, a place that facilitates communication between members of the Minecraft translation project.",
       "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student information system Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "zh-CN",
+        "words": {
+          "total": 278,
+          "translated": 76,
+          "preTranslateAppliedTo": 9,
+          "approved": 10
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 14,
+          "preTranslateAppliedTo": 5,
+          "approved": 6
+        },
+        "translationProgress": 27,
+        "approvalProgress": 3
+      }
     }
   },
   "zh-TW": {
@@ -1593,6 +2278,25 @@
       "Browser extension": "Browser extension",
       "mctdesc": "This bot serves the Minecraft Translators Community Discord, a place that facilitates communication between members of the Minecraft translation project.",
       "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student information system Magister."
+    },
+    "meta": {
+      "data": {
+        "languageId": "zh-TW",
+        "words": {
+          "total": 278,
+          "translated": 46,
+          "preTranslateAppliedTo": 6,
+          "approved": 7
+        },
+        "phrases": {
+          "total": 38,
+          "translated": 7,
+          "preTranslateAppliedTo": 4,
+          "approved": 5
+        },
+        "translationProgress": 16,
+        "approvalProgress": 2
+      }
     }
   }
 }
