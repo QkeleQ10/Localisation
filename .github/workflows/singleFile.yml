@@ -29,5 +29,6 @@ jobs:
         run: |
           git config --global user.name "Continuous Integration"
           git config --global user.email "quinten@althues.nl"
+          git add strings.json
           git commit -a -m "Update strings.json" || echo "No changes to commit"
           git push
