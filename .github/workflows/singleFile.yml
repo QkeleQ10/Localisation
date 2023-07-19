@@ -26,7 +26,5 @@ jobs:
         run: |
           git config --local user.email "quinten@althues.nl"
           git config --local user.name "QkeleQ10"
-          git checkout ${{ github.ref_name }}
-          git pull
           git add strings.json
           git commit -m "Update strings.json" || echo "No changes to commit"
