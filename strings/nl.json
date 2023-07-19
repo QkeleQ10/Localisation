@@ -10,7 +10,7 @@
     "auto": "Systeemthema",
     "light": "Licht thema",
     "dark": "Donker thema",
-    "setThemeTooltip": "Thema wijzigen naar {theme, select, light {licht thema} dark {donker thema} other {systeemthema}}",
+    "setThemeTooltip": "Thema wijzigen naar {theme, select, light {licht thema} dark {donker thema} other {systeemthema}} ",
     "viewTranslation": "Op Crowdin weergeven",
     "contributeTranslation": "Op Crowdin meehelpen",
     "viewSource": "Op GitHub weergeven",
