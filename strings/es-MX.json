@@ -1,11 +1,10 @@
 {
-    "languageName": "Inglés",
+    "languageName": "Español (México)",
     "Language": "Idioma",
     "selectLanguage": "Selecciona un idioma",
     "changeLanguage": "Cambiar idioma del sitio",
-    "changeLanguageTooltip": "Cambiar idioma a {language}",
     "helpTranslate": "Ayuda a traducir este sitio",
-    "helpTranslateLanguage": "Help translate this site to {language} ({progress} translated)",
+    "translationProgress": "{percentage} complete",
     "themeSwitcherAria": "Theme switcher",
     "auto": "Tema del sistema",
     "light": "Tema claro",

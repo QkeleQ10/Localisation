@@ -1,11 +1,10 @@
 {
-    "languageName": "Bahasa Inggris",
+    "languageName": "Indonesia",
     "Language": "Bahasa",
     "selectLanguage": "Pilih sebuah bahasa",
     "changeLanguage": "Change site language",
-    "changeLanguageTooltip": "Change language to {language}",
     "helpTranslate": "Help translate this site",
-    "helpTranslateLanguage": "Help translate this site to {language} ({progress} translated)",
+    "translationProgress": "{percentage} complete",
     "themeSwitcherAria": "Theme switcher",
     "auto": "System theme",
     "light": "Tema terang",
