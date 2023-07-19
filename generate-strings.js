@@ -24,7 +24,7 @@ function generateStringsJSON() {
 
     const output = JSON.stringify(strings, null, 2);
     fs.writeFileSync(outputFilename, output);
-    console.log(`Generated ${outputFilename}`, output);
+    console.log(`Generated ${outputFilename}`);
 }
 
 generateStringsJSON();

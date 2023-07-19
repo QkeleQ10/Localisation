@@ -1,10 +1,12 @@
-name: Update strings.json
+name: Combine translation files
 
 on:
+  push:
+    branches:
+      - main
   pull_request:
-    types:
-      - opened
-      - synchronize
+    branches:
+      - main
 
 jobs:
   update-strings:
@@ -12,28 +14,20 @@ jobs:
 
     steps:    
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Set up Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
           node-version: '20'
 
       - name: Generate strings.json
         run: node generate-strings.js
 
-      - name: Config GitHub
+      - name: Commit artifacts
+        if: github.event_name == 'push'
         run: |
-          git config --local user.email "quinten@althues.nl"
-          git config --local user.name "QkeleQ10"
-
-      - name: Checkout
-        uses: actions/checkout@v3.5.3
-        with:
-          ref: updates
-
-      - name: Commit changes
-        run: |
-          git pull
-          git add strings.json
-          git commit -m "Update strings.json" || echo "No changes to commit"
+          git config --global user.name "Continuous Integration"
+          git config --global user.email "quinten@althues.nl"
+          git commit -a -m "Update strings.json" || echo "No changes to commit"
+          git push
