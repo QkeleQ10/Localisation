@@ -45,13 +45,13 @@
         "languageId": "af",
         "words": {
           "total": 278,
-          "translated": 39,
+          "translated": 40,
           "preTranslateAppliedTo": 0,
           "approved": 0
         },
         "phrases": {
           "total": 38,
-          "translated": 2,
+          "translated": 3,
           "preTranslateAppliedTo": 0,
           "approved": 0
         },
@@ -108,13 +108,13 @@
           "total": 278,
           "translated": 41,
           "preTranslateAppliedTo": 1,
-          "approved": 2
+          "approved": 1
         },
         "phrases": {
           "total": 38,
           "translated": 4,
           "preTranslateAppliedTo": 1,
-          "approved": 2
+          "approved": 1
         },
         "translationProgress": 14,
         "approvalProgress": 0
@@ -169,16 +169,16 @@
           "total": 278,
           "translated": 42,
           "preTranslateAppliedTo": 2,
-          "approved": 3
+          "approved": 2
         },
         "phrases": {
           "total": 38,
           "translated": 5,
           "preTranslateAppliedTo": 2,
-          "approved": 3
+          "approved": 2
         },
         "translationProgress": 15,
-        "approvalProgress": 1
+        "approvalProgress": 0
       }
     }
   },
@@ -289,13 +289,13 @@
         "languageId": "ca",
         "words": {
           "total": 278,
-          "translated": 46,
+          "translated": 47,
           "preTranslateAppliedTo": 1,
           "approved": 7
         },
         "phrases": {
           "total": 38,
-          "translated": 8,
+          "translated": 9,
           "preTranslateAppliedTo": 1,
           "approved": 6
         },
@@ -589,7 +589,13 @@
       "mctdesc": "This bot serves the Minecraft Translators community Discord, a place that facilitates communication between members of the Minecraft translation project.",
       "studytoolsdesc": "This browser extension aims to improve various aspects of Dutch educational websites, such as the student tracking system Magister."
     },
-    "meta": {}
+    "meta": {
+      "data": {
+        "languageId": "en",
+        "translationProgress": 100,
+        "approvalProgress": 100
+      }
+    }
   },
   "eo": {
     "message": {
@@ -761,13 +767,13 @@
           "total": 278,
           "translated": 75,
           "preTranslateAppliedTo": 4,
-          "approved": 5
+          "approved": 4
         },
         "phrases": {
           "total": 38,
           "translated": 11,
           "preTranslateAppliedTo": 2,
-          "approved": 3
+          "approved": 2
         },
         "translationProgress": 26,
         "approvalProgress": 1
@@ -881,17 +887,17 @@
         "languageId": "fr",
         "words": {
           "total": 278,
-          "translated": 230,
+          "translated": 246,
           "preTranslateAppliedTo": 8,
           "approved": 189
         },
         "phrases": {
           "total": 38,
-          "translated": 30,
+          "translated": 36,
           "preTranslateAppliedTo": 4,
           "approved": 27
         },
-        "translationProgress": 82,
+        "translationProgress": 88,
         "approvalProgress": 67
       }
     }
@@ -1005,13 +1011,13 @@
           "total": 278,
           "translated": 41,
           "preTranslateAppliedTo": 1,
-          "approved": 2
+          "approved": 1
         },
         "phrases": {
           "total": 38,
           "translated": 4,
           "preTranslateAppliedTo": 1,
-          "approved": 2
+          "approved": 1
         },
         "translationProgress": 14,
         "approvalProgress": 0
@@ -1127,13 +1133,13 @@
           "total": 278,
           "translated": 119,
           "preTranslateAppliedTo": 9,
-          "approved": 80
+          "approved": 79
         },
         "phrases": {
           "total": 38,
           "translated": 16,
           "preTranslateAppliedTo": 5,
-          "approved": 14
+          "approved": 13
         },
         "translationProgress": 42,
         "approvalProgress": 28
@@ -1188,13 +1194,13 @@
           "total": 278,
           "translated": 46,
           "preTranslateAppliedTo": 6,
-          "approved": 7
+          "approved": 6
         },
         "phrases": {
           "total": 38,
           "translated": 7,
           "preTranslateAppliedTo": 4,
-          "approved": 5
+          "approved": 4
         },
         "translationProgress": 16,
         "approvalProgress": 2
@@ -1308,17 +1314,17 @@
         "languageId": "ko",
         "words": {
           "total": 278,
-          "translated": 41,
+          "translated": 42,
           "preTranslateAppliedTo": 1,
           "approved": 2
         },
         "phrases": {
           "total": 38,
-          "translated": 4,
+          "translated": 5,
           "preTranslateAppliedTo": 1,
           "approved": 2
         },
-        "translationProgress": 14,
+        "translationProgress": 15,
         "approvalProgress": 0
       }
     }
@@ -1371,16 +1377,16 @@
           "total": 278,
           "translated": 52,
           "preTranslateAppliedTo": 5,
-          "approved": 6
+          "approved": 5
         },
         "phrases": {
           "total": 38,
           "translated": 11,
           "preTranslateAppliedTo": 3,
-          "approved": 4
+          "approved": 3
         },
         "translationProgress": 18,
-        "approvalProgress": 2
+        "approvalProgress": 1
       }
     }
   },
@@ -1493,13 +1499,13 @@
           "total": 278,
           "translated": 227,
           "preTranslateAppliedTo": 43,
-          "approved": 44
+          "approved": 43
         },
         "phrases": {
           "total": 38,
           "translated": 28,
           "preTranslateAppliedTo": 4,
-          "approved": 5
+          "approved": 4
         },
         "translationProgress": 81,
         "approvalProgress": 15
@@ -1735,17 +1741,17 @@
         "languageId": "ro",
         "words": {
           "total": 278,
-          "translated": 41,
+          "translated": 42,
           "preTranslateAppliedTo": 2,
           "approved": 2
         },
         "phrases": {
           "total": 38,
-          "translated": 4,
+          "translated": 5,
           "preTranslateAppliedTo": 2,
           "approved": 2
         },
-        "translationProgress": 14,
+        "translationProgress": 15,
         "approvalProgress": 0
       }
     }
@@ -1857,13 +1863,13 @@
         "languageId": "sr",
         "words": {
           "total": 278,
-          "translated": 39,
+          "translated": 40,
           "preTranslateAppliedTo": 0,
           "approved": 0
         },
         "phrases": {
           "total": 38,
-          "translated": 2,
+          "translated": 3,
           "preTranslateAppliedTo": 0,
           "approved": 0
         },
@@ -1981,13 +1987,13 @@
           "total": 278,
           "translated": 47,
           "preTranslateAppliedTo": 4,
-          "approved": 5
+          "approved": 4
         },
         "phrases": {
           "total": 38,
           "translated": 8,
           "preTranslateAppliedTo": 2,
-          "approved": 3
+          "approved": 2
         },
         "translationProgress": 16,
         "approvalProgress": 1
@@ -2162,13 +2168,13 @@
         "languageId": "vi",
         "words": {
           "total": 278,
-          "translated": 39,
+          "translated": 40,
           "preTranslateAppliedTo": 0,
           "approved": 0
         },
         "phrases": {
           "total": 38,
-          "translated": 2,
+          "translated": 3,
           "preTranslateAppliedTo": 0,
           "approved": 0
         },
@@ -2225,13 +2231,13 @@
           "total": 278,
           "translated": 76,
           "preTranslateAppliedTo": 9,
-          "approved": 10
+          "approved": 9
         },
         "phrases": {
           "total": 38,
           "translated": 14,
           "preTranslateAppliedTo": 5,
-          "approved": 6
+          "approved": 5
         },
         "translationProgress": 27,
         "approvalProgress": 3
@@ -2286,13 +2292,13 @@
           "total": 278,
           "translated": 46,
           "preTranslateAppliedTo": 6,
-          "approved": 7
+          "approved": 6
         },
         "phrases": {
           "total": 38,
           "translated": 7,
           "preTranslateAppliedTo": 4,
-          "approved": 5
+          "approved": 4
         },
         "translationProgress": 16,
         "approvalProgress": 2
