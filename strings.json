@@ -834,7 +834,7 @@
       "selectLanguage": "Choisir une langue",
       "changeLanguage": "Changer la langue du site",
       "helpTranslate": "Aider à traduire ce site",
-      "translationProgress": "{percentage} complete",
+      "translationProgress": "{percentage} complété",
       "themeSwitcherAria": "Sélecteur de thème",
       "auto": "Thème du système",
       "light": "Thème clair",
@@ -855,7 +855,7 @@
       "Localisation manager": "Gestionnaire de localisation",
       "Proofreader": "Réviseur",
       "Translator": "Traducteur",
-      "qkeleqdesc": "This website is available in many languages thanks to volunteers from all over the world. Consider helping to get this site in your language!",
+      "qkeleqdesc": "Ce site est disponible en plusieurs langues grâce à des bénévoles du monde entier. Considère à aider à traduire ce site dans ta langue !",
       "statsfmdesc": "stats.fm pour Spotify te donne un aperçu de tes chansons et artistes les plus écoutés, avec un choix de différentes périodes.",
       "premiddesc": "PreMiD est un utilitaire simple et configurable qui te permet de montrer ce que tu fais sur Internet dans ton statut d'activité Discord.",
       "hypixeldesc": "Hypixel est le serveur Minecraft le plus populaire au monde, sur lequel tu peux jouer une variété de mini-jeux.",
@@ -872,17 +872,17 @@
         "languageId": "fr",
         "words": {
           "total": 268,
-          "translated": 242,
+          "translated": 268,
           "preTranslateAppliedTo": 8,
           "approved": 185
         },
         "phrases": {
           "total": 37,
-          "translated": 35,
+          "translated": 37,
           "preTranslateAppliedTo": 4,
           "approved": 26
         },
-        "translationProgress": 90,
+        "translationProgress": 100,
         "approvalProgress": 69
       }
     }
