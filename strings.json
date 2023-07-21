@@ -1734,7 +1734,7 @@
       "selectLanguage": "Выбери язык",
       "changeLanguage": "Изменить язык сайта",
       "helpTranslate": "Помочь перевести этот сайт",
-      "translationProgress": "{percentage} complete",
+      "translationProgress": "Завершено на {percentage}",
       "themeSwitcherAria": "Переключатель темы",
       "auto": "Системная тема",
       "light": "Светлая тема",
