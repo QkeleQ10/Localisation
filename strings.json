@@ -1374,7 +1374,7 @@
       "selectLanguage": "Taal selecteren",
       "changeLanguage": "Taal wijzigen",
       "helpTranslate": "Helpen deze site te vertalen",
-      "translationProgress": "{percentage} voltooid",
+      "translationProgress": "{percentage} vertaald",
       "themeSwitcherAria": "Themawisselaar",
       "auto": "Systeemthema",
       "light": "Licht thema",
@@ -1772,18 +1772,18 @@
         "languageId": "ru",
         "words": {
           "total": 268,
-          "translated": 266,
+          "translated": 268,
           "preTranslateAppliedTo": 8,
-          "approved": 233
+          "approved": 249
         },
         "phrases": {
           "total": 37,
-          "translated": 36,
+          "translated": 37,
           "preTranslateAppliedTo": 4,
-          "approved": 30
+          "approved": 36
         },
-        "translationProgress": 99,
-        "approvalProgress": 86
+        "translationProgress": 100,
+        "approvalProgress": 92
       }
     }
   },
