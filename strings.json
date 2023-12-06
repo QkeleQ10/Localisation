@@ -898,7 +898,7 @@
       "joinCommunity": "Join on Discord",
       "getExtension": "Get extension",
       "close": "Cerrar",
-      "Import grades": "Import grades",
+      "Import grades": "Importar calificaciones",
       "heroTitle": "Hola, soy Quinten.",
       "aboutme": "Un estudiante de los Países Bajos con pasión por la programación, diseño digital, e idiomas. Quiero mejorar el mundo creando herramientas para que las use todo el mundo.",
       "Localisation": "Localización",
@@ -2012,17 +2012,17 @@
         },
         "words": {
           "total": 268,
-          "translated": 223,
+          "translated": 268,
           "preTranslateAppliedTo": 43,
           "approved": 43
         },
         "phrases": {
           "total": 37,
-          "translated": 27,
+          "translated": 37,
           "preTranslateAppliedTo": 4,
           "approved": 4
         },
-        "translationProgress": 83,
+        "translationProgress": 100,
         "approvalProgress": 16
       }
     }
