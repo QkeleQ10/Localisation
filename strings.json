@@ -886,17 +886,17 @@
       "selectLanguage": "Selecciona un idioma",
       "changeLanguage": "Cambiar idioma del sitio",
       "helpTranslate": "Ayuda a traducir este sitio",
-      "translationProgress": "{percentage} complete",
-      "themeSwitcherAria": "Theme switcher",
+      "translationProgress": "{percentage} % completado",
+      "themeSwitcherAria": "Selector de Tema",
       "auto": "Tema del sistema",
       "light": "Tema claro",
       "dark": "Tema oscuro",
       "setThemeTooltip": "¡Cambia el tema a {theme, select, light {claro} dark {oscuro} other {sistema}}",
-      "viewTranslation": "View on Crowdin",
-      "contributeTranslation": "Contribute on Crowdin",
-      "viewSource": "View on GitHub",
-      "joinCommunity": "Join on Discord",
-      "getExtension": "Get extension",
+      "viewTranslation": "Ver en Crowdin",
+      "contributeTranslation": "Contribuir en Crowdin",
+      "viewSource": "Vista en GitHub",
+      "joinCommunity": "Unirse en Discord",
+      "getExtension": "Obtener Extensión",
       "close": "Cerrar",
       "Import grades": "Importar calificaciones",
       "heroTitle": "Hola, soy Quinten.",
@@ -907,7 +907,7 @@
       "Localisation manager": "Administrador de localización",
       "Proofreader": "Corrector",
       "Translator": "Traductor",
-      "qkeleqdesc": "This website is available in many languages thanks to volunteers from all over the world. Consider helping to get this site in your language!",
+      "qkeleqdesc": "Este sitio web está disponible en muchos idiomas gracias a voluntarios de todo el mundo. ¡Considera ayudar a conseguir este sitio en tu idioma!",
       "statsfmdesc": "stats.fm para Spotify proporciona una visión de tus canciones y artistas más escuchados con una selección de diferentes periodos.",
       "premiddesc": "PreMiD es una simple y configurable herramienta que te permite mostrar lo que estás haciendo en la web en tu estado de Discord.",
       "hypixeldesc": "Hypixel es la red de servidores de Minecraft más popular del mundo, en la que puedes jugar una variedad de minijuegos.",
@@ -946,18 +946,18 @@
         },
         "words": {
           "total": 268,
-          "translated": 224,
+          "translated": 268,
           "preTranslateAppliedTo": 48,
-          "approved": 224
+          "approved": 268
         },
         "phrases": {
           "total": 37,
-          "translated": 28,
+          "translated": 37,
           "preTranslateAppliedTo": 7,
-          "approved": 28
+          "approved": 37
         },
-        "translationProgress": 83,
-        "approvalProgress": 83
+        "translationProgress": 100,
+        "approvalProgress": 100
       }
     }
   },
