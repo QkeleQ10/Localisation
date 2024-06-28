@@ -1399,8 +1399,8 @@
       "getExtension": "Get extension",
       "close": "Bezár",
       "Import grades": "Import grades",
-      "heroTitle": "Hi, I'm Quinten.",
-      "aboutme": "A student from the Netherlands with a passion for programming, digital design, and languages. I want to improve the world by creating tools for everyone to use.",
+      "heroTitle": "Hello, én Quinten vagyok.",
+      "aboutme": "Egy holland diák aki rajong a programmozás, a digitális tervezés és a nyelvek iránt. Szeretném javitani a világot azáltal, hogy mindenki számára használhato eszközöket készitek.",
       "Localisation": "Localisation",
       "Coming soon": "Hamarosan",
       "Owner": "Tulajdonos",
@@ -2848,16 +2848,16 @@
           "total": 268,
           "translated": 268,
           "preTranslateAppliedTo": 9,
-          "approved": 10
+          "approved": 268
         },
         "phrases": {
           "total": 37,
           "translated": 37,
           "preTranslateAppliedTo": 5,
-          "approved": 6
+          "approved": 37
         },
         "translationProgress": 100,
-        "approvalProgress": 3
+        "approvalProgress": 100
       }
     }
   },
