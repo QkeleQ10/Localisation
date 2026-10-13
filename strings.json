@@ -34,6 +34,7 @@
           "threeLettersCode": "afr",
           "locale": "af-ZA",
           "androidCode": "af-rZA",
+          "bcp47Code": "b+af+ZA",
           "osxCode": "af.lproj",
           "osxLocale": "af",
           "pluralCategoryNames": [
@@ -49,19 +50,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 40,
+          "total": 56,
+          "translated": 1,
           "preTranslateAppliedTo": 0,
           "approved": 0
         },
         "phrases": {
-          "total": 37,
-          "translated": 3,
+          "total": 21,
+          "translated": 1,
           "preTranslateAppliedTo": 0,
           "approved": 0
         },
-        "translationProgress": 14,
-        "approvalProgress": 0
+        "translationProgress": 1,
+        "approvalProgress": 0,
+        "qaChecksStatus": {
+          "total": 1,
+          "inProgress": 0,
+          "passed": 1,
+          "failed": 0
+        }
       }
     }
   },
@@ -100,6 +107,7 @@
           "threeLettersCode": "ara",
           "locale": "ar-SA",
           "androidCode": "ar-rSA",
+          "bcp47Code": "b+ar+SA",
           "osxCode": "ar.lproj",
           "osxLocale": "ar",
           "pluralCategoryNames": [
@@ -123,19 +131,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 41,
-          "preTranslateAppliedTo": 1,
-          "approved": 1
+          "total": 56,
+          "translated": 1,
+          "preTranslateAppliedTo": 0,
+          "approved": 0
         },
         "phrases": {
-          "total": 37,
-          "translated": 4,
-          "preTranslateAppliedTo": 1,
-          "approved": 1
+          "total": 21,
+          "translated": 1,
+          "preTranslateAppliedTo": 0,
+          "approved": 0
         },
-        "translationProgress": 15,
-        "approvalProgress": 0
+        "translationProgress": 1,
+        "approvalProgress": 0,
+        "qaChecksStatus": {
+          "total": 1,
+          "inProgress": 0,
+          "passed": 1,
+          "failed": 0
+        }
       }
     }
   },
@@ -174,6 +188,7 @@
           "threeLettersCode": "bul",
           "locale": "bg-BG",
           "androidCode": "bg-rBG",
+          "bcp47Code": "b+bg+BG",
           "osxCode": "bg.lproj",
           "osxLocale": "bg",
           "pluralCategoryNames": [
@@ -189,19 +204,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 42,
-          "preTranslateAppliedTo": 2,
-          "approved": 2
+          "total": 56,
+          "translated": 2,
+          "preTranslateAppliedTo": 1,
+          "approved": 1
         },
         "phrases": {
-          "total": 37,
-          "translated": 5,
-          "preTranslateAppliedTo": 2,
-          "approved": 2
+          "total": 21,
+          "translated": 2,
+          "preTranslateAppliedTo": 1,
+          "approved": 1
         },
-        "translationProgress": 15,
-        "approvalProgress": 0
+        "translationProgress": 3,
+        "approvalProgress": 1,
+        "qaChecksStatus": {
+          "total": 2,
+          "inProgress": 0,
+          "passed": 2,
+          "failed": 0
+        }
       }
     }
   },
@@ -240,6 +261,7 @@
           "threeLettersCode": "ben",
           "locale": "bn-BD",
           "androidCode": "bn-rBD",
+          "bcp47Code": "b+bn+BD",
           "osxCode": "bn.lproj",
           "osxLocale": "bn",
           "pluralCategoryNames": [
@@ -255,19 +277,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 223,
-          "preTranslateAppliedTo": 67,
-          "approved": 184
+          "total": 56,
+          "translated": 20,
+          "preTranslateAppliedTo": 7,
+          "approved": 17
         },
         "phrases": {
-          "total": 37,
-          "translated": 27,
-          "preTranslateAppliedTo": 5,
-          "approved": 25
+          "total": 21,
+          "translated": 9,
+          "preTranslateAppliedTo": 4,
+          "approved": 7
         },
-        "translationProgress": 83,
-        "approvalProgress": 68
+        "translationProgress": 35,
+        "approvalProgress": 30,
+        "qaChecksStatus": {
+          "total": 9,
+          "inProgress": 0,
+          "passed": 9,
+          "failed": 0
+        }
       }
     }
   },
@@ -306,6 +334,7 @@
           "threeLettersCode": "cat",
           "locale": "ca-ES",
           "androidCode": "ca-rES",
+          "bcp47Code": "b+ca+ES",
           "osxCode": "ca.lproj",
           "osxLocale": "ca",
           "pluralCategoryNames": [
@@ -321,19 +350,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 47,
-          "preTranslateAppliedTo": 1,
-          "approved": 7
+          "total": 56,
+          "translated": 5,
+          "preTranslateAppliedTo": 4,
+          "approved": 1
         },
         "phrases": {
-          "total": 37,
-          "translated": 9,
-          "preTranslateAppliedTo": 1,
-          "approved": 6
+          "total": 21,
+          "translated": 4,
+          "preTranslateAppliedTo": 3,
+          "approved": 1
         },
-        "translationProgress": 17,
-        "approvalProgress": 2
+        "translationProgress": 8,
+        "approvalProgress": 1,
+        "qaChecksStatus": {
+          "total": 4,
+          "inProgress": 0,
+          "passed": 4,
+          "failed": 0
+        }
       }
     }
   },
@@ -372,6 +407,7 @@
           "threeLettersCode": "ces",
           "locale": "cs-CZ",
           "androidCode": "cs-rCZ",
+          "bcp47Code": "b+cs+CZ",
           "osxCode": "cs.lproj",
           "osxLocale": "cs",
           "pluralCategoryNames": [
@@ -391,19 +427,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 119,
-          "preTranslateAppliedTo": 9,
-          "approved": 80
+          "total": 56,
+          "translated": 12,
+          "preTranslateAppliedTo": 12,
+          "approved": 9
         },
         "phrases": {
-          "total": 37,
-          "translated": 16,
-          "preTranslateAppliedTo": 5,
-          "approved": 14
+          "total": 21,
+          "translated": 7,
+          "preTranslateAppliedTo": 7,
+          "approved": 5
         },
-        "translationProgress": 44,
-        "approvalProgress": 29
+        "translationProgress": 21,
+        "approvalProgress": 16,
+        "qaChecksStatus": {
+          "total": 7,
+          "inProgress": 0,
+          "passed": 7,
+          "failed": 0
+        }
       }
     }
   },
@@ -442,6 +484,7 @@
           "threeLettersCode": "dan",
           "locale": "da-DK",
           "androidCode": "da-rDK",
+          "bcp47Code": "b+da+DK",
           "osxCode": "da.lproj",
           "osxLocale": "da",
           "pluralCategoryNames": [
@@ -457,19 +500,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 115,
-          "preTranslateAppliedTo": 5,
-          "approved": 6
+          "total": 56,
+          "translated": 7,
+          "preTranslateAppliedTo": 7,
+          "approved": 5
         },
         "phrases": {
-          "total": 37,
-          "translated": 14,
-          "preTranslateAppliedTo": 3,
-          "approved": 4
+          "total": 21,
+          "translated": 4,
+          "preTranslateAppliedTo": 4,
+          "approved": 3
         },
-        "translationProgress": 42,
-        "approvalProgress": 2
+        "translationProgress": 12,
+        "approvalProgress": 8,
+        "qaChecksStatus": {
+          "total": 4,
+          "inProgress": 0,
+          "passed": 4,
+          "failed": 0
+        }
       }
     }
   },
@@ -508,6 +557,7 @@
           "threeLettersCode": "deu",
           "locale": "de-DE",
           "androidCode": "de-rDE",
+          "bcp47Code": "b+de+DE",
           "osxCode": "de.lproj",
           "osxLocale": "de",
           "pluralCategoryNames": [
@@ -523,19 +573,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 224,
-          "preTranslateAppliedTo": 9,
-          "approved": 80
+          "total": 56,
+          "translated": 35,
+          "preTranslateAppliedTo": 14,
+          "approved": 9
         },
         "phrases": {
-          "total": 37,
-          "translated": 28,
-          "preTranslateAppliedTo": 5,
-          "approved": 14
+          "total": 21,
+          "translated": 16,
+          "preTranslateAppliedTo": 8,
+          "approved": 5
         },
-        "translationProgress": 83,
-        "approvalProgress": 29
+        "translationProgress": 62,
+        "approvalProgress": 16,
+        "qaChecksStatus": {
+          "total": 16,
+          "inProgress": 0,
+          "passed": 16,
+          "failed": 0
+        }
       }
     }
   },
@@ -574,6 +630,7 @@
           "threeLettersCode": "ell",
           "locale": "el-GR",
           "androidCode": "el-rGR",
+          "bcp47Code": "b+el+GR",
           "osxCode": "el.lproj",
           "osxLocale": "el",
           "pluralCategoryNames": [
@@ -589,19 +646,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 114,
-          "preTranslateAppliedTo": 4,
-          "approved": 75
+          "total": 56,
+          "translated": 7,
+          "preTranslateAppliedTo": 7,
+          "approved": 4
         },
         "phrases": {
-          "total": 37,
-          "translated": 13,
-          "preTranslateAppliedTo": 2,
-          "approved": 11
+          "total": 21,
+          "translated": 4,
+          "preTranslateAppliedTo": 4,
+          "approved": 2
         },
-        "translationProgress": 42,
-        "approvalProgress": 27
+        "translationProgress": 12,
+        "approvalProgress": 7,
+        "qaChecksStatus": {
+          "total": 4,
+          "inProgress": 0,
+          "passed": 4,
+          "failed": 0
+        }
       }
     }
   },
@@ -672,6 +735,7 @@
           "threeLettersCode": "epo",
           "locale": "eo-UY",
           "androidCode": "eo-rUY",
+          "bcp47Code": "b+eo+UY",
           "osxCode": "eo.lproj",
           "osxLocale": "eo",
           "pluralCategoryNames": [
@@ -687,19 +751,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 195,
-          "preTranslateAppliedTo": 43,
-          "approved": 43
-        },
-        "phrases": {
-          "total": 37,
-          "translated": 26,
-          "preTranslateAppliedTo": 4,
+          "total": 56,
+          "translated": 20,
+          "preTranslateAppliedTo": 7,
           "approved": 4
         },
-        "translationProgress": 72,
-        "approvalProgress": 16
+        "phrases": {
+          "total": 21,
+          "translated": 9,
+          "preTranslateAppliedTo": 4,
+          "approved": 2
+        },
+        "translationProgress": 35,
+        "approvalProgress": 7,
+        "qaChecksStatus": {
+          "total": 9,
+          "inProgress": 0,
+          "passed": 9,
+          "failed": 0
+        }
       }
     }
   },
@@ -738,6 +808,7 @@
           "threeLettersCode": "spa",
           "locale": "es-ES",
           "androidCode": "es-rES",
+          "bcp47Code": "b+es+ES",
           "osxCode": "es.lproj",
           "osxLocale": "es",
           "pluralCategoryNames": [
@@ -753,19 +824,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 268,
-          "preTranslateAppliedTo": 48,
-          "approved": 268
+          "total": 56,
+          "translated": 34,
+          "preTranslateAppliedTo": 13,
+          "approved": 30
         },
         "phrases": {
-          "total": 37,
-          "translated": 37,
+          "total": 21,
+          "translated": 15,
           "preTranslateAppliedTo": 7,
-          "approved": 37
+          "approved": 13
         },
-        "translationProgress": 100,
-        "approvalProgress": 100
+        "translationProgress": 60,
+        "approvalProgress": 53,
+        "qaChecksStatus": {
+          "total": 15,
+          "inProgress": 0,
+          "passed": 15,
+          "failed": 0
+        }
       }
     }
   },
@@ -804,6 +881,7 @@
           "threeLettersCode": "spa",
           "locale": "es-MX",
           "androidCode": "es-rMX",
+          "bcp47Code": "b+es+MX",
           "osxCode": "es-MX.lproj",
           "osxLocale": "es_MX",
           "pluralCategoryNames": [
@@ -819,19 +897,25 @@
           "dialectOf": "es-ES"
         },
         "words": {
-          "total": 268,
-          "translated": 75,
-          "preTranslateAppliedTo": 4,
-          "approved": 4
+          "total": 56,
+          "translated": 32,
+          "preTranslateAppliedTo": 5,
+          "approved": 3
         },
         "phrases": {
-          "total": 37,
-          "translated": 11,
+          "total": 21,
+          "translated": 14,
           "preTranslateAppliedTo": 2,
-          "approved": 2
+          "approved": 1
         },
-        "translationProgress": 27,
-        "approvalProgress": 1
+        "translationProgress": 57,
+        "approvalProgress": 5,
+        "qaChecksStatus": {
+          "total": 14,
+          "inProgress": 0,
+          "passed": 11,
+          "failed": 3
+        }
       }
     }
   },
@@ -870,6 +954,7 @@
           "threeLettersCode": "fin",
           "locale": "fi-FI",
           "androidCode": "fi-rFI",
+          "bcp47Code": "b+fi+FI",
           "osxCode": "fi.lproj",
           "osxLocale": "fi",
           "pluralCategoryNames": [
@@ -885,19 +970,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 92,
-          "preTranslateAppliedTo": 4,
-          "approved": 53
+          "total": 56,
+          "translated": 8,
+          "preTranslateAppliedTo": 7,
+          "approved": 5
         },
         "phrases": {
-          "total": 37,
-          "translated": 13,
-          "preTranslateAppliedTo": 2,
-          "approved": 11
+          "total": 21,
+          "translated": 5,
+          "preTranslateAppliedTo": 4,
+          "approved": 3
         },
-        "translationProgress": 34,
-        "approvalProgress": 19
+        "translationProgress": 14,
+        "approvalProgress": 8,
+        "qaChecksStatus": {
+          "total": 5,
+          "inProgress": 0,
+          "passed": 5,
+          "failed": 0
+        }
       }
     }
   },
@@ -936,6 +1027,7 @@
           "threeLettersCode": "fra",
           "locale": "fr-FR",
           "androidCode": "fr-rFR",
+          "bcp47Code": "b+fr+FR",
           "osxCode": "fr.lproj",
           "osxLocale": "fr",
           "pluralCategoryNames": [
@@ -951,19 +1043,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 268,
-          "preTranslateAppliedTo": 8,
-          "approved": 185
+          "total": 56,
+          "translated": 34,
+          "preTranslateAppliedTo": 12,
+          "approved": 18
         },
         "phrases": {
-          "total": 37,
-          "translated": 37,
-          "preTranslateAppliedTo": 4,
-          "approved": 26
+          "total": 21,
+          "translated": 15,
+          "preTranslateAppliedTo": 6,
+          "approved": 8
         },
-        "translationProgress": 100,
-        "approvalProgress": 69
+        "translationProgress": 60,
+        "approvalProgress": 32,
+        "qaChecksStatus": {
+          "total": 15,
+          "inProgress": 0,
+          "passed": 15,
+          "failed": 0
+        }
       }
     }
   },
@@ -1002,6 +1100,7 @@
           "threeLettersCode": "gla",
           "locale": "gd-GB",
           "androidCode": "gd-rGB",
+          "bcp47Code": "b+gd+GB",
           "osxCode": "gd.lproj",
           "osxLocale": "gd",
           "pluralCategoryNames": [
@@ -1021,19 +1120,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 46,
-          "preTranslateAppliedTo": 4,
+          "total": 56,
+          "translated": 7,
+          "preTranslateAppliedTo": 7,
           "approved": 4
         },
         "phrases": {
-          "total": 37,
-          "translated": 6,
-          "preTranslateAppliedTo": 2,
+          "total": 21,
+          "translated": 4,
+          "preTranslateAppliedTo": 4,
           "approved": 2
         },
-        "translationProgress": 17,
-        "approvalProgress": 1
+        "translationProgress": 12,
+        "approvalProgress": 7,
+        "qaChecksStatus": {
+          "total": 4,
+          "inProgress": 0,
+          "passed": 4,
+          "failed": 0
+        }
       }
     }
   },
@@ -1072,38 +1177,43 @@
           "threeLettersCode": "heb",
           "locale": "he-IL",
           "androidCode": "iw-rIL",
+          "bcp47Code": "b+he+IL",
           "osxCode": "he.lproj",
           "osxLocale": "he",
           "pluralCategoryNames": [
             "one",
             "two",
-            "many",
             "other"
           ],
-          "pluralRules": "n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3",
+          "pluralRules": "(n==1 ? 0 : n==2 ? 1 : 2)",
           "pluralExamples": [
             "1",
             "2",
-            "20, 30, 40, 50, 60, 70, 80, 90, 100, 1000, 10000, 100000, 1000000, ...",
-            "0, 3~17, 101, 1001, ...; 0.0~1.5, 10.0, 100.0, 1000.0, 10000.0, 100000.0, 1000000.0, ..."
+            "0, 3~17, 100, 1000, 10000, ...; 1.0~2.5, 10.0, 100.0, 1000.0, ..."
           ],
           "textDirection": "rtl",
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 41,
-          "preTranslateAppliedTo": 1,
-          "approved": 1
+          "total": 56,
+          "translated": 1,
+          "preTranslateAppliedTo": 0,
+          "approved": 0
         },
         "phrases": {
-          "total": 37,
-          "translated": 4,
-          "preTranslateAppliedTo": 1,
-          "approved": 1
+          "total": 21,
+          "translated": 1,
+          "preTranslateAppliedTo": 0,
+          "approved": 0
         },
-        "translationProgress": 15,
-        "approvalProgress": 0
+        "translationProgress": 1,
+        "approvalProgress": 0,
+        "qaChecksStatus": {
+          "total": 1,
+          "inProgress": 0,
+          "passed": 0,
+          "failed": 1
+        }
       }
     }
   },
@@ -1142,6 +1252,7 @@
           "threeLettersCode": "hun",
           "locale": "hu-HU",
           "androidCode": "hu-rHU",
+          "bcp47Code": "b+hu+HU",
           "osxCode": "hu.lproj",
           "osxLocale": "hu",
           "pluralCategoryNames": [
@@ -1157,19 +1268,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 80,
-          "preTranslateAppliedTo": 5,
-          "approved": 11
+          "total": 56,
+          "translated": 8,
+          "preTranslateAppliedTo": 8,
+          "approved": 5
         },
         "phrases": {
-          "total": 37,
-          "translated": 12,
-          "preTranslateAppliedTo": 3,
-          "approved": 8
+          "total": 21,
+          "translated": 5,
+          "preTranslateAppliedTo": 5,
+          "approved": 3
         },
-        "translationProgress": 29,
-        "approvalProgress": 4
+        "translationProgress": 14,
+        "approvalProgress": 8,
+        "qaChecksStatus": {
+          "total": 5,
+          "inProgress": 0,
+          "passed": 5,
+          "failed": 0
+        }
       }
     }
   },
@@ -1208,6 +1325,7 @@
           "threeLettersCode": "ind",
           "locale": "id-ID",
           "androidCode": "in-rID",
+          "bcp47Code": "b+id+ID",
           "osxCode": "id.lproj",
           "osxLocale": "id",
           "pluralCategoryNames": [
@@ -1221,19 +1339,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 119,
-          "preTranslateAppliedTo": 9,
-          "approved": 79
+          "total": 56,
+          "translated": 12,
+          "preTranslateAppliedTo": 11,
+          "approved": 8
         },
         "phrases": {
-          "total": 37,
-          "translated": 16,
-          "preTranslateAppliedTo": 5,
-          "approved": 13
+          "total": 21,
+          "translated": 7,
+          "preTranslateAppliedTo": 6,
+          "approved": 4
         },
-        "translationProgress": 44,
-        "approvalProgress": 29
+        "translationProgress": 21,
+        "approvalProgress": 14,
+        "qaChecksStatus": {
+          "total": 7,
+          "inProgress": 0,
+          "passed": 7,
+          "failed": 0
+        }
       }
     }
   },
@@ -1272,6 +1396,7 @@
           "threeLettersCode": "ita",
           "locale": "it-IT",
           "androidCode": "it-rIT",
+          "bcp47Code": "b+it+IT",
           "osxCode": "it.lproj",
           "osxLocale": "it",
           "pluralCategoryNames": [
@@ -1287,19 +1412,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 46,
+          "total": 56,
+          "translated": 7,
           "preTranslateAppliedTo": 6,
-          "approved": 6
+          "approved": 5
         },
         "phrases": {
-          "total": 37,
-          "translated": 7,
+          "total": 21,
+          "translated": 5,
           "preTranslateAppliedTo": 4,
-          "approved": 4
+          "approved": 3
         },
-        "translationProgress": 17,
-        "approvalProgress": 2
+        "translationProgress": 12,
+        "approvalProgress": 8,
+        "qaChecksStatus": {
+          "total": 5,
+          "inProgress": 0,
+          "passed": 5,
+          "failed": 0
+        }
       }
     }
   },
@@ -1338,6 +1469,7 @@
           "threeLettersCode": "jpn",
           "locale": "ja-JP",
           "androidCode": "ja-rJP",
+          "bcp47Code": "b+ja+JP",
           "osxCode": "ja.lproj",
           "osxLocale": "ja",
           "pluralCategoryNames": [
@@ -1351,19 +1483,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 123,
-          "preTranslateAppliedTo": 6,
-          "approved": 7
+          "total": 56,
+          "translated": 23,
+          "preTranslateAppliedTo": 7,
+          "approved": 6
         },
         "phrases": {
-          "total": 37,
-          "translated": 21,
-          "preTranslateAppliedTo": 4,
-          "approved": 5
+          "total": 21,
+          "translated": 11,
+          "preTranslateAppliedTo": 5,
+          "approved": 4
         },
-        "translationProgress": 45,
-        "approvalProgress": 2
+        "translationProgress": 41,
+        "approvalProgress": 10,
+        "qaChecksStatus": {
+          "total": 11,
+          "inProgress": 0,
+          "passed": 11,
+          "failed": 0
+        }
       }
     }
   },
@@ -1402,6 +1540,7 @@
           "threeLettersCode": "kor",
           "locale": "ko-KR",
           "androidCode": "ko-rKR",
+          "bcp47Code": "b+ko+KR",
           "osxCode": "ko.lproj",
           "osxLocale": "ko",
           "pluralCategoryNames": [
@@ -1415,19 +1554,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 42,
-          "preTranslateAppliedTo": 1,
-          "approved": 2
+          "total": 56,
+          "translated": 3,
+          "preTranslateAppliedTo": 2,
+          "approved": 1
         },
         "phrases": {
-          "total": 37,
-          "translated": 5,
-          "preTranslateAppliedTo": 1,
-          "approved": 2
+          "total": 21,
+          "translated": 3,
+          "preTranslateAppliedTo": 2,
+          "approved": 1
         },
-        "translationProgress": 15,
-        "approvalProgress": 0
+        "translationProgress": 5,
+        "approvalProgress": 1,
+        "qaChecksStatus": {
+          "total": 3,
+          "inProgress": 0,
+          "passed": 3,
+          "failed": 0
+        }
       }
     }
   },
@@ -1466,6 +1611,7 @@
           "threeLettersCode": "msa",
           "locale": "ms-MY",
           "androidCode": "ms-rMY",
+          "bcp47Code": "b+ms+MY",
           "osxCode": "ms.lproj",
           "osxLocale": "ms",
           "pluralCategoryNames": [
@@ -1479,19 +1625,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 52,
-          "preTranslateAppliedTo": 5,
-          "approved": 5
+          "total": 56,
+          "translated": 8,
+          "preTranslateAppliedTo": 7,
+          "approved": 4
         },
         "phrases": {
-          "total": 37,
-          "translated": 11,
-          "preTranslateAppliedTo": 3,
-          "approved": 3
+          "total": 21,
+          "translated": 5,
+          "preTranslateAppliedTo": 4,
+          "approved": 2
         },
-        "translationProgress": 19,
-        "approvalProgress": 1
+        "translationProgress": 14,
+        "approvalProgress": 7,
+        "qaChecksStatus": {
+          "total": 5,
+          "inProgress": 0,
+          "passed": 5,
+          "failed": 0
+        }
       }
     }
   },
@@ -1511,13 +1663,13 @@
       "joinCommunity": "Op Discord meepraten",
       "socials": "Sociaal",
       "getExtension": "Extensie installeren",
-      "readMore": "Meer lezen",
-      "goThere": "Visit",
+      "readMore": "Meer informatie",
+      "goThere": "Bezoeken",
       "close": "Sluiten",
       "importGrades": "Cijfers importeren",
       "comingSoon": "Binnenkort beschikbaar",
-      "welcomeHero": "Welcome!",
-      "underConstruction": "This page is under construction. For now, you may be interested in one of the following:"
+      "welcomeHero": "Welkom!",
+      "underConstruction": "Er wordt gewerkt aan deze pagina. Voor nu zijn de volgende opties misschien interessant:"
     },
     "meta": {
       "data": {
@@ -1530,6 +1682,7 @@
           "threeLettersCode": "nld",
           "locale": "nl-NL",
           "androidCode": "nl-rNL",
+          "bcp47Code": "b+nl+NL",
           "osxCode": "nl.lproj",
           "osxLocale": "nl",
           "pluralCategoryNames": [
@@ -1545,19 +1698,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 268,
-          "preTranslateAppliedTo": 5,
-          "approved": 268
+          "total": 56,
+          "translated": 56,
+          "preTranslateAppliedTo": 10,
+          "approved": 56
         },
         "phrases": {
-          "total": 37,
-          "translated": 37,
-          "preTranslateAppliedTo": 3,
-          "approved": 37
+          "total": 21,
+          "translated": 21,
+          "preTranslateAppliedTo": 6,
+          "approved": 21
         },
         "translationProgress": 100,
-        "approvalProgress": 100
+        "approvalProgress": 100,
+        "qaChecksStatus": {
+          "total": 21,
+          "inProgress": 0,
+          "passed": 21,
+          "failed": 0
+        }
       }
     }
   },
@@ -1596,6 +1755,7 @@
           "threeLettersCode": "nor",
           "locale": "no-NO",
           "androidCode": "no-rNO",
+          "bcp47Code": "b+no+NO",
           "osxCode": "no.lproj",
           "osxLocale": "no",
           "pluralCategoryNames": [
@@ -1611,19 +1771,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 268,
-          "preTranslateAppliedTo": 43,
-          "approved": 43
+          "total": 56,
+          "translated": 34,
+          "preTranslateAppliedTo": 7,
+          "approved": 3
         },
         "phrases": {
-          "total": 37,
-          "translated": 37,
-          "preTranslateAppliedTo": 4,
-          "approved": 4
+          "total": 21,
+          "translated": 15,
+          "preTranslateAppliedTo": 3,
+          "approved": 1
         },
-        "translationProgress": 100,
-        "approvalProgress": 16
+        "translationProgress": 60,
+        "approvalProgress": 5,
+        "qaChecksStatus": {
+          "total": 15,
+          "inProgress": 0,
+          "passed": 15,
+          "failed": 0
+        }
       }
     }
   },
@@ -1662,6 +1828,7 @@
           "threeLettersCode": "pol",
           "locale": "pl-PL",
           "androidCode": "pl-rPL",
+          "bcp47Code": "b+pl+PL",
           "osxCode": "pl.lproj",
           "osxLocale": "pl",
           "pluralCategoryNames": [
@@ -1681,19 +1848,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 268,
-          "preTranslateAppliedTo": 47,
-          "approved": 268
+          "total": 56,
+          "translated": 35,
+          "preTranslateAppliedTo": 13,
+          "approved": 30
         },
         "phrases": {
-          "total": 37,
-          "translated": 37,
-          "preTranslateAppliedTo": 6,
-          "approved": 37
+          "total": 21,
+          "translated": 16,
+          "preTranslateAppliedTo": 7,
+          "approved": 13
         },
-        "translationProgress": 100,
-        "approvalProgress": 100
+        "translationProgress": 62,
+        "approvalProgress": 53,
+        "qaChecksStatus": {
+          "total": 16,
+          "inProgress": 0,
+          "passed": 16,
+          "failed": 0
+        }
       }
     }
   },
@@ -1732,6 +1905,7 @@
           "threeLettersCode": "por",
           "locale": "pt-BR",
           "androidCode": "pt-rBR",
+          "bcp47Code": "b+pt+BR",
           "osxCode": "pt-BR.lproj",
           "osxLocale": "pt_BR",
           "pluralCategoryNames": [
@@ -1747,19 +1921,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 115,
-          "preTranslateAppliedTo": 5,
-          "approved": 76
+          "total": 56,
+          "translated": 34,
+          "preTranslateAppliedTo": 9,
+          "approved": 5
         },
         "phrases": {
-          "total": 37,
-          "translated": 14,
-          "preTranslateAppliedTo": 3,
-          "approved": 12
+          "total": 21,
+          "translated": 15,
+          "preTranslateAppliedTo": 5,
+          "approved": 3
         },
-        "translationProgress": 42,
-        "approvalProgress": 28
+        "translationProgress": 60,
+        "approvalProgress": 8,
+        "qaChecksStatus": {
+          "total": 15,
+          "inProgress": 0,
+          "passed": 15,
+          "failed": 0
+        }
       }
     }
   },
@@ -1798,6 +1978,7 @@
           "threeLettersCode": "por",
           "locale": "pt-PT",
           "androidCode": "pt-rPT",
+          "bcp47Code": "b+pt+PT",
           "osxCode": "pt.lproj",
           "osxLocale": "pt",
           "pluralCategoryNames": [
@@ -1813,19 +1994,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 226,
-          "preTranslateAppliedTo": 47,
-          "approved": 226
+          "total": 56,
+          "translated": 23,
+          "preTranslateAppliedTo": 13,
+          "approved": 18
         },
         "phrases": {
-          "total": 37,
-          "translated": 29,
-          "preTranslateAppliedTo": 6,
-          "approved": 29
+          "total": 21,
+          "translated": 11,
+          "preTranslateAppliedTo": 7,
+          "approved": 8
         },
-        "translationProgress": 84,
-        "approvalProgress": 84
+        "translationProgress": 41,
+        "approvalProgress": 32,
+        "qaChecksStatus": {
+          "total": 11,
+          "inProgress": 0,
+          "passed": 11,
+          "failed": 0
+        }
       }
     }
   },
@@ -1864,6 +2051,7 @@
           "threeLettersCode": "ron",
           "locale": "ro-RO",
           "androidCode": "ro-rRO",
+          "bcp47Code": "b+ro+RO",
           "osxCode": "ro.lproj",
           "osxLocale": "ro",
           "pluralCategoryNames": [
@@ -1881,19 +2069,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 42,
-          "preTranslateAppliedTo": 2,
-          "approved": 2
+          "total": 56,
+          "translated": 2,
+          "preTranslateAppliedTo": 1,
+          "approved": 1
         },
         "phrases": {
-          "total": 37,
-          "translated": 5,
-          "preTranslateAppliedTo": 2,
-          "approved": 2
+          "total": 21,
+          "translated": 2,
+          "preTranslateAppliedTo": 1,
+          "approved": 1
         },
-        "translationProgress": 15,
-        "approvalProgress": 0
+        "translationProgress": 3,
+        "approvalProgress": 1,
+        "qaChecksStatus": {
+          "total": 2,
+          "inProgress": 0,
+          "passed": 2,
+          "failed": 0
+        }
       }
     }
   },
@@ -1932,6 +2126,7 @@
           "threeLettersCode": "rus",
           "locale": "ru-RU",
           "androidCode": "ru-rRU",
+          "bcp47Code": "b+ru+RU",
           "osxCode": "ru.lproj",
           "osxLocale": "ru",
           "pluralCategoryNames": [
@@ -1951,19 +2146,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 268,
-          "preTranslateAppliedTo": 8,
-          "approved": 249
+          "total": 56,
+          "translated": 34,
+          "preTranslateAppliedTo": 9,
+          "approved": 30
         },
         "phrases": {
-          "total": 37,
-          "translated": 37,
-          "preTranslateAppliedTo": 4,
-          "approved": 36
+          "total": 21,
+          "translated": 15,
+          "preTranslateAppliedTo": 5,
+          "approved": 13
         },
-        "translationProgress": 100,
-        "approvalProgress": 92
+        "translationProgress": 60,
+        "approvalProgress": 53,
+        "qaChecksStatus": {
+          "total": 15,
+          "inProgress": 0,
+          "passed": 15,
+          "failed": 0
+        }
       }
     }
   },
@@ -2002,6 +2203,7 @@
           "threeLettersCode": "srp",
           "locale": "sr-SP",
           "androidCode": "sr-rSP",
+          "bcp47Code": "b+sr+Cyrl",
           "osxCode": "sr.lproj",
           "osxLocale": "sr",
           "pluralCategoryNames": [
@@ -2019,19 +2221,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 40,
-          "preTranslateAppliedTo": 0,
+          "total": 56,
+          "translated": 35,
+          "preTranslateAppliedTo": 5,
           "approved": 0
         },
         "phrases": {
-          "total": 37,
-          "translated": 3,
-          "preTranslateAppliedTo": 0,
+          "total": 21,
+          "translated": 16,
+          "preTranslateAppliedTo": 3,
           "approved": 0
         },
-        "translationProgress": 14,
-        "approvalProgress": 0
+        "translationProgress": 62,
+        "approvalProgress": 0,
+        "qaChecksStatus": {
+          "total": 16,
+          "inProgress": 0,
+          "passed": 13,
+          "failed": 3
+        }
       }
     }
   },
@@ -2070,6 +2278,7 @@
           "threeLettersCode": "swe",
           "locale": "sv-SE",
           "androidCode": "sv-rSE",
+          "bcp47Code": "b+sv+SE",
           "osxCode": "sv.lproj",
           "osxLocale": "sv",
           "pluralCategoryNames": [
@@ -2085,19 +2294,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 268,
-          "preTranslateAppliedTo": 5,
-          "approved": 268
+          "total": 56,
+          "translated": 34,
+          "preTranslateAppliedTo": 9,
+          "approved": 30
         },
         "phrases": {
-          "total": 37,
-          "translated": 37,
-          "preTranslateAppliedTo": 3,
-          "approved": 37
+          "total": 21,
+          "translated": 15,
+          "preTranslateAppliedTo": 5,
+          "approved": 13
         },
-        "translationProgress": 100,
-        "approvalProgress": 100
+        "translationProgress": 60,
+        "approvalProgress": 53,
+        "qaChecksStatus": {
+          "total": 15,
+          "inProgress": 0,
+          "passed": 15,
+          "failed": 0
+        }
       }
     }
   },
@@ -2136,6 +2351,7 @@
           "threeLettersCode": "tha",
           "locale": "th-TH",
           "androidCode": "th-rTH",
+          "bcp47Code": "b+th+TH",
           "osxCode": "th.lproj",
           "osxLocale": "th",
           "pluralCategoryNames": [
@@ -2149,19 +2365,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 47,
-          "preTranslateAppliedTo": 4,
-          "approved": 4
+          "total": 56,
+          "translated": 4,
+          "preTranslateAppliedTo": 3,
+          "approved": 3
         },
         "phrases": {
-          "total": 37,
-          "translated": 8,
-          "preTranslateAppliedTo": 2,
-          "approved": 2
+          "total": 21,
+          "translated": 2,
+          "preTranslateAppliedTo": 1,
+          "approved": 1
         },
-        "translationProgress": 17,
-        "approvalProgress": 1
+        "translationProgress": 7,
+        "approvalProgress": 5,
+        "qaChecksStatus": {
+          "total": 2,
+          "inProgress": 0,
+          "passed": 1,
+          "failed": 1
+        }
       }
     }
   },
@@ -2200,6 +2422,7 @@
           "threeLettersCode": "tur",
           "locale": "tr-TR",
           "androidCode": "tr-rTR",
+          "bcp47Code": "b+tr+TR",
           "osxCode": "tr.lproj",
           "osxLocale": "tr",
           "pluralCategoryNames": [
@@ -2215,19 +2438,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 151,
-          "preTranslateAppliedTo": 5,
-          "approved": 76
+          "total": 56,
+          "translated": 34,
+          "preTranslateAppliedTo": 9,
+          "approved": 5
         },
         "phrases": {
-          "total": 37,
-          "translated": 25,
-          "preTranslateAppliedTo": 3,
-          "approved": 12
+          "total": 21,
+          "translated": 15,
+          "preTranslateAppliedTo": 5,
+          "approved": 3
         },
-        "translationProgress": 56,
-        "approvalProgress": 28
+        "translationProgress": 60,
+        "approvalProgress": 8,
+        "qaChecksStatus": {
+          "total": 15,
+          "inProgress": 0,
+          "passed": 13,
+          "failed": 2
+        }
       }
     }
   },
@@ -2266,6 +2495,7 @@
           "threeLettersCode": "ukr",
           "locale": "uk-UA",
           "androidCode": "uk-rUA",
+          "bcp47Code": "b+uk+UA",
           "osxCode": "uk.lproj",
           "osxLocale": "uk",
           "pluralCategoryNames": [
@@ -2285,19 +2515,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 268,
-          "preTranslateAppliedTo": 9,
-          "approved": 268
+          "total": 56,
+          "translated": 34,
+          "preTranslateAppliedTo": 13,
+          "approved": 30
         },
         "phrases": {
-          "total": 37,
-          "translated": 37,
-          "preTranslateAppliedTo": 5,
-          "approved": 37
+          "total": 21,
+          "translated": 15,
+          "preTranslateAppliedTo": 7,
+          "approved": 13
         },
-        "translationProgress": 100,
-        "approvalProgress": 100
+        "translationProgress": 60,
+        "approvalProgress": 53,
+        "qaChecksStatus": {
+          "total": 15,
+          "inProgress": 0,
+          "passed": 15,
+          "failed": 0
+        }
       }
     }
   },
@@ -2336,6 +2572,7 @@
           "threeLettersCode": "vie",
           "locale": "vi-VN",
           "androidCode": "vi-rVN",
+          "bcp47Code": "b+vi+VN",
           "osxCode": "vi.lproj",
           "osxLocale": "vi",
           "pluralCategoryNames": [
@@ -2349,19 +2586,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 40,
+          "total": 56,
+          "translated": 1,
           "preTranslateAppliedTo": 0,
           "approved": 0
         },
         "phrases": {
-          "total": 37,
-          "translated": 3,
+          "total": 21,
+          "translated": 1,
           "preTranslateAppliedTo": 0,
           "approved": 0
         },
-        "translationProgress": 14,
-        "approvalProgress": 0
+        "translationProgress": 1,
+        "approvalProgress": 0,
+        "qaChecksStatus": {
+          "total": 1,
+          "inProgress": 0,
+          "passed": 1,
+          "failed": 0
+        }
       }
     }
   },
@@ -2400,6 +2643,7 @@
           "threeLettersCode": "zho",
           "locale": "zh-CN",
           "androidCode": "zh-rCN",
+          "bcp47Code": "b+zh+Hans",
           "osxCode": "zh-Hans.lproj",
           "osxLocale": "zh-Hans",
           "pluralCategoryNames": [
@@ -2413,19 +2657,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 76,
-          "preTranslateAppliedTo": 9,
-          "approved": 9
+          "total": 56,
+          "translated": 11,
+          "preTranslateAppliedTo": 10,
+          "approved": 8
         },
         "phrases": {
-          "total": 37,
-          "translated": 14,
+          "total": 21,
+          "translated": 6,
           "preTranslateAppliedTo": 5,
-          "approved": 5
+          "approved": 4
         },
-        "translationProgress": 28,
-        "approvalProgress": 3
+        "translationProgress": 19,
+        "approvalProgress": 14,
+        "qaChecksStatus": {
+          "total": 6,
+          "inProgress": 0,
+          "passed": 6,
+          "failed": 0
+        }
       }
     }
   },
@@ -2464,6 +2714,7 @@
           "threeLettersCode": "zho",
           "locale": "zh-TW",
           "androidCode": "zh-rTW",
+          "bcp47Code": "b+zh+Hant",
           "osxCode": "zh-Hant.lproj",
           "osxLocale": "zh-Hant",
           "pluralCategoryNames": [
@@ -2477,19 +2728,25 @@
           "dialectOf": null
         },
         "words": {
-          "total": 268,
-          "translated": 46,
-          "preTranslateAppliedTo": 6,
-          "approved": 6
+          "total": 56,
+          "translated": 6,
+          "preTranslateAppliedTo": 5,
+          "approved": 5
         },
         "phrases": {
-          "total": 37,
-          "translated": 7,
-          "preTranslateAppliedTo": 4,
-          "approved": 4
+          "total": 21,
+          "translated": 4,
+          "preTranslateAppliedTo": 3,
+          "approved": 3
         },
-        "translationProgress": 17,
-        "approvalProgress": 2
+        "translationProgress": 10,
+        "approvalProgress": 8,
+        "qaChecksStatus": {
+          "total": 4,
+          "inProgress": 0,
+          "passed": 4,
+          "failed": 0
+        }
       }
     }
   }
