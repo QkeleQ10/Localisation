@@ -1,6 +1,6 @@
 {
     "languageName": "Français",
-    "language": "Language",
+    "language": "Langue",
     "selectLanguage": "Choisir une langue",
     "changeLanguage": "Changer la langue du site",
     "helpTranslate": "Aider à traduire ce site",
@@ -11,13 +11,13 @@
     "dark": "Thème sombre",
     "viewSource": "Afficher sur GitHub",
     "joinCommunity": "Rejoins-nous sur Discord",
-    "socials": "Socials",
+    "socials": "Réseaux sociaux",
     "getExtension": "Obtenir l'extension",
-    "readMore": "Read more",
-    "goThere": "Visit",
+    "readMore": "En savoir plus",
+    "goThere": "Y aller",
     "close": "Fermer",
     "importGrades": "Importer mes notes",
     "comingSoon": "Bientôt disponible",
-    "welcomeHero": "Welcome!",
-    "underConstruction": "This page is under construction. For now, you may be interested in one of the following:"
+    "welcomeHero": "Bienvenue !",
+    "underConstruction": "Cette page est en cours de construction. En attendant, l’une des options suivantes pourrait t'intéresser :"
 }
